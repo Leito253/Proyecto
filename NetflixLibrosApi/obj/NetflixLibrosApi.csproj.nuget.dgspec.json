@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/et12alumno/Documentos/ProyectoNetflixLibros/NetflixLibrosApi/NetflixLibrosApi.csproj": {}
+    "/home/et12alumno/Documentos/Proyecto/NetflixLibrosApi/NetflixLibrosApi.csproj": {}
   },
   "projects": {
-    "/home/et12alumno/Documentos/ProyectoNetflixLibros/NetflixLibrosApi/NetflixLibrosApi.csproj": {
+    "/home/et12alumno/Documentos/Proyecto/NetflixLibrosApi/NetflixLibrosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/et12alumno/Documentos/ProyectoNetflixLibros/NetflixLibrosApi/NetflixLibrosApi.csproj",
+        "projectUniqueName": "/home/et12alumno/Documentos/Proyecto/NetflixLibrosApi/NetflixLibrosApi.csproj",
         "projectName": "NetflixLibrosApi",
-        "projectPath": "/home/et12alumno/Documentos/ProyectoNetflixLibros/NetflixLibrosApi/NetflixLibrosApi.csproj",
+        "projectPath": "/home/et12alumno/Documentos/Proyecto/NetflixLibrosApi/NetflixLibrosApi.csproj",
         "packagesPath": "/home/et12alumno/.nuget/packages/",
-        "outputPath": "/home/et12alumno/Documentos/ProyectoNetflixLibros/NetflixLibrosApi/obj/",
+        "outputPath": "/home/et12alumno/Documentos/Proyecto/NetflixLibrosApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/et12alumno/.nuget/NuGet/NuGet.Config"
