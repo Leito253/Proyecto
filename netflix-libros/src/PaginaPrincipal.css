@@ -1,82 +1,120 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  background: linear-gradient(135deg, #000000, #530303);
-  color: #ddd;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-}
-
+/* Contenedor principal */
 main {
-  padding: 40px;
-  flex-grow: 1;
+  padding: 80px 20px 20px; /* deja espacio arriba por el navbar fijo */
+  background-color: #141414; /* fondo oscuro tipo Netflix */
+  min-height: 100vh;
+  color: white;
+  font-family: 'Arial', sans-serif;
+
+  /* 🔑 Evita que aparezca scroll horizontal */
+  max-width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
 }
 
+/* Grilla de libros */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: 25px;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+  justify-content: center;
+  align-items: start;
+
+  /* 🔑 Asegura que no se pase del ancho */
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
 }
 
+/* Cada libro */
 .book {
-  background: #222;
-  border-radius: 10px;
+  text-decoration: none;
+  color: inherit;
+  background: #1f1f1f;
+  border-radius: 12px;
   overflow: hidden;
-  cursor: pointer;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   display: flex;
   flex-direction: column;
-  user-select: none;
-}
-
-.book img {
-  width: 100%;
-  height: 210px;
-  object-fit: cover;
-  display: block;
 }
 
 .book:hover {
   transform: scale(1.05);
-  box-shadow: 0 10px 20px rgba(255, 255, 255, 0.7);
-  z-index: 10;
+  box-shadow: 0 0 20px rgba(229, 9, 20, 0.6);
 }
 
+/* Imagen del libro */
+.book img {
+  width: 100%;
+  height: 260px; /* altura uniforme */
+  object-fit: cover; /* recorta sin deformar */
+  display: block;
+  border-bottom: 2px solid #e50914;
+}
+
+/* Info del libro */
 .book-info {
-  padding: 10px 12px;
-  flex-grow: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  padding: 12px;
+  text-align: center;
 }
 
 .book-title {
-  color: #ff5f5f;
-  font-weight: 700;
   font-size: 1rem;
-  margin-bottom: 5px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  font-weight: bold;
+  margin-bottom: 6px;
+  color: white;
 }
 
 .book-author {
+  font-size: 0.9rem;
   color: #aaa;
-  font-size: 0.85rem;
-  font-style: italic;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
+/* 📱 Tablets */
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 15px;
+  }
+
+  .book img {
+    height: 220px;
+  }
+
+  .book-title {
+    font-size: 0.95rem;
+  }
+
+  .book-author {
+    font-size: 0.85rem;
+  }
+}
+
+/* 📱 Celulares */
 @media (max-width: 480px) {
   main {
-    padding: 20px;
+    padding: 70px 10px 10px;
+  }
+
+  .grid {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 10px;
+  }
+
+  .book {
+    border-radius: 8px;
+  }
+
+  .book img {
+    height: 200px;
+  }
+
+  .book-title {
+    font-size: 0.9rem;
+  }
+
+  .book-author {
+    font-size: 0.8rem;
   }
 }

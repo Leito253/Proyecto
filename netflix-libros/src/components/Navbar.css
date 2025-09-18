@@ -1,128 +1,123 @@
-/* Navbar principal */
+/* Barra superior */
 .navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: transparent; /* transparente al inicio */
-  color: white;
-  padding: 15px 25px;
-  position: fixed;
-  width: 100%;
-  top: 0;
-  z-index: 1000;
-  font-family: 'Arial', sans-serif;
-  transition: all 0.4s ease;
-  box-shadow: 0 2px 10px rgba(0,0,0,0);
-}
-
-.navbar.scrolled {
-  background: #141414; /* fondo negro al hacer scroll */
-  box-shadow: 0 2px 15px rgba(0,0,0,0.5);
-}
-
-.logo {
-  font-size: 1.8rem;
-  font-weight: bold;
-  color: #e50914; /* rojo estilo Netflix */
-  letter-spacing: 2px;
-}
-
-/* Wrapper de la hamburguesa */
-.hamburger-wrapper {
-  display: block;
-  cursor: pointer;
-}
-
-/* Fondo rojo solo en las tres rayitas */
-.hamburger-bg {
-  background-color: #e50914;
-  padding: 10px;
-  border-radius: 6px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.hamburger-bg:hover {
-  transform: scale(1.15);
-  box-shadow: 0 0 12px #e50914;
-}
-
-/* Side menu */
-.side-menu {
   position: fixed;
   top: 0;
-  left: -280px;
-  width: 280px;
-  height: 100%;
-  background: #1c1c1c;
-  color: white;
-  transition: left 0.35s ease;
-  z-index: 1500;
-  padding-top: 70px;
-  box-shadow: 5px 0 20px rgba(0,0,0,0.7);
-  font-family: 'Arial', sans-serif;
-}
-
-.side-menu.open {
   left: 0;
+  width: 100%;
+  background-color: #141414;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  z-index: 1000;
+  box-sizing: border-box;
 }
 
-.side-menu ul {
-  list-style: none;
-  padding: 0;
+/* Título estilo Netflix */
+.navbar h1 {
+  color: #e50914;
+  font-size: 1.6rem;
   margin: 0;
+  font-weight: bold;
+  white-space: nowrap; /* evita cortes raros */
 }
 
-.side-menu li {
-  padding: 18px 25px;
-  border-bottom: 1px solid #333;
+/* Botón hamburguesa */
+.menu-toggle {
+  background: #e50914;
+  border: none;
+  color: white;
+  font-size: 1.6rem;
+  cursor: pointer;
+  padding: 8px 12px;
+  border-radius: 8px;
   transition: background 0.3s ease, transform 0.3s ease;
 }
 
-.side-menu li:hover {
-  background: rgba(229, 9, 20, 0.2);
-  transform: translateX(10px);
+.menu-toggle:hover {
+  background: #b20710;
+  transform: scale(1.1);
 }
 
-.side-menu li a {
+/* Menú lateral */
+.menu {
+  position: fixed;
+  top: 0;
+  left: -260px; /* oculto al inicio */
+  width: 240px;
+  height: 100vh;
+  background-color: #141414;
+  padding: 80px 20px;
+  transition: left 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.7);
+  z-index: 999;
+}
+
+.menu.open {
+  left: 0;
+}
+
+.menu a {
   color: white;
   text-decoration: none;
   font-size: 1.1rem;
-  font-weight: 500;
+  transition: color 0.3s ease;
 }
 
-/* Overlay */
-.overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.55);
-  z-index: 1400;
-  backdrop-filter: blur(2px);
-  transition: opacity 0.35s ease;
+.menu a:hover {
+  color: #e50914;
 }
 
-/* Para que la grilla no se corte */
-main {
-  padding-top: 80px; /* espacio debajo del navbar fijo */
+/* 📱 Responsivo */
+@media (max-width: 1024px) {
+  .navbar h1 {
+    font-size: 1.4rem;
+  }
+
+  .menu-toggle {
+    font-size: 1.4rem;
+    padding: 6px 10px;
+  }
 }
 
-/* Responsive */
 @media (max-width: 768px) {
-  .hamburger-wrapper {
-    display: block;
+  .navbar {
+    padding: 12px 15px;
   }
 
-  .side-menu {
-    width: 240px;
-    padding-top: 60px;
+  .navbar h1 {
+    font-size: 1.2rem;
   }
 
-  .side-menu li {
-    padding: 15px 20px;
+  .menu {
+    width: 200px;
+    padding: 70px 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar {
+    padding: 10px 12px;
+  }
+
+  .navbar h1 {
+    font-size: 1rem;
+  }
+
+  .menu-toggle {
+    font-size: 1.2rem;
+    padding: 5px 8px;
+  }
+
+  .menu {
+    width: 180px;
+    padding: 60px 12px;
+  }
+
+  .menu a {
+    font-size: 1rem;
   }
 }
