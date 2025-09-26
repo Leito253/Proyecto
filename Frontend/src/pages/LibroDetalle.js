@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { useParams, Link } from "react-router-dom";
-import "./LibroDetalle.css";
+import { useParams } from "react-router-dom";
+import "../Styles/LibroDetalle.css";
 
 export default function LibroDetalle() {
   const { id } = useParams();
@@ -8,28 +8,34 @@ export default function LibroDetalle() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`https://localhost:5001/api/libros/${id}`) // URL de tu backend
+    fetch(`http://localhost:5072/api/Libros/${id}`)
       .then(res => res.json())
       .then(data => {
         setLibro(data);
         setLoading(false);
       })
-      .catch(err => console.error(err));
+      .catch(err => {
+        console.error("Error al obtener libro:", err);
+        setLoading(false);
+      });
   }, [id]);
 
-  if (loading) return <p style={{ color: "white", textAlign: "center" }}>Cargando libro...</p>;
-  if (!libro) return <p style={{ color: "white", textAlign: "center" }}>Libro no encontrado</p>;
+  if (loading) return <div className="cargando">Cargando libro...</div>;
+  if (!libro) return <div className="cargando">Libro no encontrado</div>;
 
   return (
-    <div className="libro-detalle">
-      <Link to="/" className="volver">← Volver</Link>
+    <div className="libro-detalle-container">
       <h1>{libro.titulo}</h1>
       <h3>{libro.autor}</h3>
-      <img src={libro.urlPortada} alt={libro.titulo} />
-      <p>{libro.descripcion}</p>
-      <a href={libro.urlPdf} target="_blank" rel="noopener noreferrer" className="btn-pdf">
-        Descargar PDF
-      </a>
+      <p className="descripcion">{libro.descripcion}</p>
+      <div className="pdf-container">
+        <iframe
+          src={libro.urlPdf}
+          title={libro.titulo}
+          width="100%"
+          height="500px"
+        ></iframe>
+      </div>
     </div>
   );
 }

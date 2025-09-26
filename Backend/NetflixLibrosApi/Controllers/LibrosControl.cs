@@ -16,29 +16,19 @@ namespace NetflixLibrosAPI.Controladores
             _context = context;
         }
 
-        // GET: api/Libros
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Libro>>> ObtenerLibros()
         {
-            return await _context.Libros.ToListAsync();
+            var libros = await _context.Libros.ToListAsync();
+            return Ok(libros);
         }
 
-        // GET: api/Libros/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Libro>> ObtenerLibro(int id)
         {
             var libro = await _context.Libros.FindAsync(id);
             if (libro == null) return NotFound();
-            return libro;
-        }
-
-        // POST: api/Libros
-        [HttpPost]
-        public async Task<ActionResult<Libro>> CrearLibro(Libro libro)
-        {
-            _context.Libros.Add(libro);
-            await _context.SaveChangesAsync();
-            return CreatedAtAction(nameof(ObtenerLibro), new { id = libro.Id }, libro);
+            return Ok(libro);
         }
     }
 }

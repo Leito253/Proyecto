@@ -1,16 +1,19 @@
 import React from "react";
 import "../Styles/BookCard.css";
 
-export default function BookCard({ title, author, cover }) {
+export default function BookCard({ title, author, cover, onClick }) {
   return (
-    <div style={{ width: "150px", margin: "10px" }}>
+    <div className="book-card" onClick={onClick}>
+      {/* cover viene de la base de datos, ejemplo: /Archivos/Portadas/ElPrincipito.jpg */}
       <img
-        src={cover}
+        src={`http://localhost:5072${cover}`}
         alt={title}
-        style={{ width: "100%", borderRadius: "10px" }}
+        className="book-cover"
       />
-      <p style={{ color: "white", textAlign: "center", fontWeight: "bold" }}>{title}</p>
-      <p style={{ color: "#aaa", textAlign: "center", fontSize: "0.85rem" }}>{author}</p>
+      <div className="book-info">
+        <h3 className="book-title">{title}</h3>
+        <p className="book-author">{author}</p>
+      </div>
     </div>
   );
 }

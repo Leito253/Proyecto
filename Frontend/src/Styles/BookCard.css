@@ -1,37 +1,43 @@
+.book-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 .book-card {
-  width: 180px;
-  margin: 10px;
-  background-color: #1f1f1f;
+  width: 200px;
+  background-color: #1c1c1c;
   border-radius: 12px;
   overflow: hidden;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
 }
 
 .book-card:hover {
-  transform: scale(1.05);
-  box-shadow: 0 0 20px rgba(229, 9, 20, 0.6);
+  transform: scale(1.08);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
 }
 
-.book-card img {
+.book-cover {
   width: 100%;
-  height: 260px;
+  height: 300px;
   object-fit: cover;
-  display: block;
-  border-bottom: 2px solid #e50914;
+  border-bottom: 1px solid #333;
 }
 
 .book-info {
-  padding: 12px;
+  padding: 0.8rem;
   text-align: center;
 }
 
 .book-title {
-  font-size: 1rem;
-  font-weight: bold;
-  color: white;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0.3rem 0;
+  color: #fff;
 }
 
 .book-author {
   font-size: 0.9rem;
   color: #aaa;
+  margin-top: 0.2rem;
 }

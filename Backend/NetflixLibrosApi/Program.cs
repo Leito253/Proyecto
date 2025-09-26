@@ -1,51 +1,51 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.FileProviders;
 using NetflixLibrosAPI.Data;
+using Microsoft.Extensions.FileProviders;
 using System.IO;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 🔹 Conexión con MySQL (lee el connection string de appsettings.json)
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+// 🚀 Registrar DbContext con MySQL
 builder.Services.AddDbContext<NetflixLibrosContext>(options =>
-    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
+        new MySqlServerVersion(new Version(8, 0, 29))
+    )
+);
 
-// 🔹 Agregar controladores
 builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-// 🔹 Configurar CORS para permitir llamadas desde React
+// 🔹 Habilitar CORS para React
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReact", policy =>
     {
-        policy.WithOrigins("http://localhost:3000") // Frontend en React
-              .AllowAnyHeader()
-              .AllowAnyMethod();
+        policy.WithOrigins("http://localhost:3000")
+                .AllowAnyHeader()
+                .AllowAnyMethod();
     });
 });
 
 var app = builder.Build();
 
-// 🔹 Configuración de entorno
+// Swagger
 if (app.Environment.IsDevelopment())
 {
-    app.UseDeveloperExceptionPage();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
+
+// Archivos estáticos (para imágenes/PDFs en wwwroot)
+app.UseStaticFiles();
 
 app.UseHttpsRedirection();
 
-// 🔹 Habilitar CORS (antes de MapControllers)
+// 🔹 Aplicar CORS
 app.UseCors("AllowReact");
 
-// 🔹 Servir PDFs desde carpeta "Archivos" (podés cambiar el nombre)
-app.UseStaticFiles(new StaticFileOptions
-{
-    FileProvider = new PhysicalFileProvider(
-        Path.Combine(builder.Environment.ContentRootPath, "Archivos")),
-    RequestPath = "/archivos"
-});
+app.UseAuthorization();
 
-// 🔹 Mapear controladores (API endpoints)
 app.MapControllers();
 
 app.Run();
