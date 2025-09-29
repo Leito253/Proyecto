@@ -10,14 +10,14 @@ export default function Navbar() {
   return (
     <>
       <nav className="navbar">
+        <h1>Netflix de Libros</h1>
         <button className="menu-toggle" onClick={toggleMenu}>
           {open ? <FaTimes /> : <FaBars />}
         </button>
-        <h1>Netflix de Libros</h1>
       </nav>
 
       <div className={`sidebar ${open ? "open" : ""}`}>
-        <Link to="/" onClick={toggleMenu}>Home</Link>
+        <Link to="/" onClick={toggleMenu}>Inicio</Link>
         <Link to="/sobre-nosotros" onClick={toggleMenu}>Sobre Nosotros</Link>
         <Link to="/categoria" onClick={toggleMenu}>Categorías</Link>
         <Link to="/contacto" onClick={toggleMenu}>Contacto</Link>

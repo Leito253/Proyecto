@@ -4,11 +4,11 @@ namespace NetflixLibrosAPI.Modelos;
 public class Libro
 {
     public int Id { get; set; }
-    public string Titulo { get; set; } = string.Empty;
-    public string Autor { get; set; } = string.Empty;
-    public string UrlPortada { get; set; } = string.Empty;
-    public string UrlPdf { get; set; } = string.Empty;
-    public string Descripcion { get; set; } = string.Empty;
+    public required string Titulo { get; set; }
+    public required string Autor { get; set; }
+    public required string UrlPortada { get; set; }
+    public required string UrlPdf { get; set; }
+    public required string Descripcion { get; set; }
     public int CategoriaId { get; set; }
 
     // Propiedad de navegación

@@ -29,10 +29,3 @@ CREATE TABLE Libros (
     CategoriaId INT,
     FOREIGN KEY (CategoriaId) REFERENCES Categorias(Id)
 );
-
-INSERT INTO Categorias (Nombre) VALUES
-('Infantil'),
-('Aventura'),
-('Literatura Clásica'),
-('Fantasía'),
-('Épica');

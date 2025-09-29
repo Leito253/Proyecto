@@ -27,10 +27,14 @@ export default function PaginaPrincipal() {
 
   return (
     <main className="pagina-principal">
-      <h1 className="titulo">Libros Disponibles</h1>
+      <h1 className="titulo">📚 Libros Disponibles</h1>
       <div className="grid">
         {libros.map((libro) => (
-          <Link key={libro.id} to={`/libro/${libro.id}`} className="book-link">
+          <Link
+            key={libro.id}
+            to={`/libro/${libro.id}`}
+            className="book-link"
+          >
             <BookCard
               title={libro.titulo}
               author={libro.autor}

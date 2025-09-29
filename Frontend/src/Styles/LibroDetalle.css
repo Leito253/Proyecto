@@ -1,46 +1,51 @@
-.libro-detalle-container {
-  max-width: 900px;
-  margin: 3rem auto;
-  padding: 2rem;
-  background-color: #1f1f1f;
-  border-radius: 15px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
-  text-align: center;
+.libro-detalle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+  padding: 40px 20px;
+  background: linear-gradient(to bottom, #141414, #000);
   color: #fff;
+  font-family: "Arial", sans-serif;
 }
 
-.libro-detalle-container h1 {
-  font-size: 2.5rem;
+.titulo-libro {
+  font-size: 3rem;
+  font-weight: bold;
   color: #e50914;
-  margin-bottom: 0.5rem;
+  margin-bottom: 20px;
+  text-align: center;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
 }
 
-.libro-detalle-container h3 {
-  font-size: 1.2rem;
-  margin-bottom: 1.2rem;
-  color: #ccc;
-}
-
-.descripcion {
-  font-size: 1rem;
+.descripcion-libro {
+  font-size: 1.3rem;
   line-height: 1.6;
-  margin-bottom: 2rem;
+  max-width: 900px;
+  text-align: center;
+  margin-bottom: 40px;
   color: #ddd;
 }
 
 .pdf-container {
   border: 3px solid #e50914;
   border-radius: 12px;
+  background-color: #000;
+  width: 85%;
+  max-width: 1000px;
+  height: 70vh;
+  box-shadow: 0px 0px 25px rgba(229, 9, 20, 0.6);
   overflow: hidden;
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.7);
-  width: 100%;
-  max-width: 800px;
-  margin: 0 auto;
+  transition: transform 0.3s ease-in-out;
 }
 
-.pdf-container iframe {
-  display: block;
+.pdf-container:hover {
+  transform: scale(1.02);
+}
+
+.pdf-viewer {
   width: 100%;
-  height: 600px;
+  height: 100%;
   border: none;
 }

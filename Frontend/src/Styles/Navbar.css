@@ -6,7 +6,7 @@
   padding: 0rem 1rem;
   color: #fff;
   position: relative;
-  z-index: 1000;
+  z-index: 500; /* ⬅️ antes estaba en 1000, lo bajé para que no tape el sidebar */
   box-shadow: 0 4px 10px rgba(0,0,0,0.5);
 }
 
@@ -34,7 +34,7 @@
   flex-direction: column;
   padding: 2rem;
   transition: left 0.3s;
-  z-index: 999;
+  z-index: 1000; /* ⬅️ más alto que el navbar */
   box-shadow: 3px 0 15px rgba(0,0,0,0.7);
 }
 
@@ -61,5 +61,5 @@
   width: 100%;
   height: 100%;
   background: rgba(0,0,0,0.7);
-  z-index: 998;
+  z-index: 900; /* ⬅️ entre navbar (500) y sidebar (1000) */
 }
