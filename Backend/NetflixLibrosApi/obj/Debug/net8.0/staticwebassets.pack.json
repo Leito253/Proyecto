@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/1984.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/1984.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DiarioLoco.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/DiarioLoco.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElPrincipito.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/ElPrincipito.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/1984.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/1984.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/20mil.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/20mil.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/CienAñosDeSoledad.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/CienAñosDeSoledad.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/DiarioDeUnLoco.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/DiarioDeUnLoco.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElExtrañoCaso.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/ElExtrañoCaso.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElHobbit.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/ElHobbit.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElPrincipito.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/ElPrincipito.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Fundacion.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/Fundacion.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/LaIslaDelTesoro.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/hp1.jpeg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/hp1.jpeg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/portugueses.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/portugueses.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NetflixLibrosApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.NetflixLibrosApi.props",
+      "PackagePath": "build\\NetflixLibrosApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NetflixLibrosApi.props",
+      "PackagePath": "buildMultiTargeting\\NetflixLibrosApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NetflixLibrosApi.props",
+      "PackagePath": "buildTransitive\\NetflixLibrosApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
