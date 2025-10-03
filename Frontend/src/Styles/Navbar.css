@@ -1,7 +1,7 @@
 /*  Navbar  */
 .navbar {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; /* título a la izquierda, resto a la derecha */
   align-items: center;
   background-color: #141414;
   padding: 0rem 1rem;
@@ -17,6 +17,16 @@
   font-weight: 700;
   color: #e50914;
   margin: 0;
+  white-space: nowrap; /* mantener en una línea */
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Contenedor de la derecha (menu + lupa) */
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 2rem; /* separación entre hamburguesa y lupa */
 }
 
 /*  Botón de hamburguesa  */
@@ -31,6 +41,64 @@
 
 .menu-toggle:hover {
   color: #e50914;
+}
+
+/*  Buscador estilo lupa  */
+.search-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-toggle {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.search-toggle:hover {
+  color: #e50914;
+}
+
+/* Caja de búsqueda inicialmente oculta */
+.search-box {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  width: 0;
+  opacity: 0;
+  padding: 0;
+  overflow: hidden;
+  transition: width 0.4s ease, opacity 0.4s ease, padding 0.4s ease;
+  background-color: #1f1f1f;
+  border-radius: 4px;
+  z-index: 1100;
+}
+
+.search-box input {
+  background: transparent;
+  border: none;
+  color: #fff;
+  padding: 0.4rem;
+  outline: none;
+  width: 180px;
+}
+
+.search-box input::placeholder {
+  color: #bbb;
+}
+
+/* Mostrar la caja al hacer click (JS agrega clase .active) */
+.search-box.active {
+  width: 200px;
+  padding: 0.2rem 0.5rem;
+  opacity: 1;
 }
 
 /*  Sidebar  */
@@ -76,41 +144,12 @@
   z-index: 900;
 }
 
-/*  Buscador  */
-.search-box {
-  position: relative;
-  display: flex;
-  align-items: center;
-  background-color: #1f1f1f;
-  border-radius: 4px;
-  padding: 0.2rem 0.5rem;
-  margin-left: 1rem;
-}
-
-.search-box input {
-  background: transparent;
-  border: none;
-  color: #fff;
-  padding: 0.4rem;
-  outline: none;
-  width: 180px;
-}
-
-.search-box input::placeholder {
-  color: #bbb;
-}
-
-.search-box svg {
-  margin-left: 0.3rem;
-  color: #fff;
-}
-
 /*  Dropdown de resultados  */
 .search-dropdown {
   position: absolute;
   top: 100%;
-  left: 0;
-  width: 100%;
+  right: 0;
+  width: 200px;
   background-color: #1f1f1f;
   border-radius: 0 0 4px 4px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.5);

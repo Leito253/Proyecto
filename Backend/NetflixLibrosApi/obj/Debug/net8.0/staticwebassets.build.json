@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5uP+muuJu6zLRI8PFFwHcycGITo2ODbOeZMCWy3ag4M=",
+  "Hash": "ksGriaQPy9a7+K0Zb0JZJ8LKAW4nVpygE70pPOhbIwY=",
   "Source": "NetflixLibrosApi",
   "BasePath": "_content/NetflixLibrosApi",
   "Mode": "Default",
@@ -55,6 +55,44 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf"
     },
     {
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
+      "SourceId": "NetflixLibrosApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "BasePath": "_content/NetflixLibrosApi",
+      "RelativePath": "Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf",
+      "SourceId": "NetflixLibrosApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "BasePath": "_content/NetflixLibrosApi",
+      "RelativePath": "Archivos/PDFS/CienAñosDeSoledad.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf"
+    },
+    {
       "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DiarioLoco.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
@@ -93,6 +131,25 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf"
     },
     {
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElHobbit.pdf",
+      "SourceId": "NetflixLibrosApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "BasePath": "_content/NetflixLibrosApi",
+      "RelativePath": "Archivos/PDFS/ElHobbit.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Archivos/PDFS/ElHobbit.pdf"
+    },
+    {
       "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElPrincipito.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
@@ -112,6 +169,25 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/ElPrincipito.pdf"
     },
     {
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Fundación.pdf",
+      "SourceId": "NetflixLibrosApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "BasePath": "_content/NetflixLibrosApi",
+      "RelativePath": "Archivos/PDFS/Fundación.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Archivos/PDFS/Fundación.pdf"
+    },
+    {
       "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
@@ -129,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf"
+    },
+    {
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf",
+      "SourceId": "NetflixLibrosApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "BasePath": "_content/NetflixLibrosApi",
+      "RelativePath": "Archivos/PDFS/LaIslaDelTesoro.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf"
     },
     {
       "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
@@ -359,12 +454,12 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg"
     },
     {
-      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/portugueses.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Portugueses.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/portugueses.jpg",
+      "RelativePath": "Archivos/Portadas/Portugueses.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -375,7 +470,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Archivos/Portadas/portugueses.jpg"
+      "OriginalItemSpec": "wwwroot/Archivos/Portadas/Portugueses.jpg"
     }
   ]
 }

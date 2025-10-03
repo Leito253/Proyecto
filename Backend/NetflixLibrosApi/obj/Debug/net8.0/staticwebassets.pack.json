@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/CienAñosDeSoledad.pdf"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DiarioLoco.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/DiarioLoco.pdf"
     },
@@ -17,12 +25,24 @@
       "PackagePath": "staticwebassets/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElHobbit.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/ElHobbit.pdf"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElPrincipito.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/ElPrincipito.pdf"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Fundación.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/Fundación.pdf"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/LaIslaDelTesoro.pdf"
     },
     {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
@@ -69,12 +89,12 @@
       "PackagePath": "staticwebassets/Archivos/Portadas/LaIslaDelTesoro.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/hp1.jpeg",
-      "PackagePath": "staticwebassets/Archivos/Portadas/hp1.jpeg"
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Portugueses.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/Portugueses.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/portugueses.jpg",
-      "PackagePath": "staticwebassets/Archivos/Portadas/portugueses.jpg"
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/hp1.jpeg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/hp1.jpeg"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NetflixLibrosApi.Microsoft.AspNetCore.StaticWebAssets.props",

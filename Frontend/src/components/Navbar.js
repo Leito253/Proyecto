@@ -1,35 +1,24 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { FaBars, FaTimes, FaSearch } from "react-icons/fa";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import "../Styles/Navbar.css";
 
 export default function Navbar() {
-  const [open, setOpen] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
+  const [searchActive, setSearchActive] = useState(false);
   const [search, setSearch] = useState("");
-  const [resultados, setResultados] = useState([]);
-  const [showDropdown, setShowDropdown] = useState(false);
+  const navigate = useNavigate();
 
-  const toggleMenu = () => setOpen(!open);
+  const toggleMenu = () => setMenuOpen(!menuOpen);
+  const toggleSearch = () => setSearchActive(!searchActive);
 
-  useEffect(() => {
+  const handleSearchSubmit = (e) => {
+    e.preventDefault();
     if (search.trim() !== "") {
-      fetch(`http://localhost:5072/api/libros/buscar?query=${search}`)
-        .then(res => res.json())
-        .then(data => {
-          setResultados(data);
-          setShowDropdown(true);
-        })
-        .catch(err => console.error(err));
-    } else {
-      setResultados([]);
-      setShowDropdown(false);
+      navigate(`/buscar?query=${encodeURIComponent(search.trim())}`);
+      setSearchActive(false);
+      setSearch("");
     }
-  }, [search]);
-
-  const handleSelect = () => {
-    setSearch("");
-    setShowDropdown(false);
-    setOpen(false);
   };
 
   return (
@@ -37,43 +26,38 @@ export default function Navbar() {
       <nav className="navbar">
         <h1>Netflix de Libros</h1>
 
-        <div className="search-box">
-          <input
-            type="text"
-            placeholder="Buscar libros..."
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-          />
-          <FaSearch />
-          {showDropdown && resultados.length > 0 && (
-            <div className="search-dropdown">
-              {resultados.map((libro) => (
-                <Link
-                  to={`/libro/${libro.id}`}
-                  key={libro.id}
-                  onClick={handleSelect}
-                  className="dropdown-item"
-                >
-                  {libro.titulo} - {libro.autor}
-                </Link>
-              ))}
-            </div>
-          )}
-        </div>
+        <div className="navbar-right">
+          <div className="search-container">
+            <button className="search-toggle" onClick={toggleSearch}>
+              <FaSearch />
+            </button>
+            <form
+              className={`search-box ${searchActive ? "active" : ""}`}
+              onSubmit={handleSearchSubmit}
+            >
+              <input
+                type="text"
+                placeholder="Buscar libros..."
+                value={search}
+                onChange={(e) => setSearch(e.target.value)}
+              />
+            </form>
+          </div>
 
-        <button className="menu-toggle" onClick={toggleMenu}>
-          {open ? <FaTimes /> : <FaBars />}
-        </button>
+          <button className="menu-toggle" onClick={toggleMenu}>
+            {menuOpen ? <FaTimes /> : <FaBars />}
+          </button>
+        </div>
       </nav>
 
-      <div className={`sidebar ${open ? "open" : ""}`}>
+      <div className={`sidebar ${menuOpen ? "open" : ""}`}>
         <Link to="/" onClick={toggleMenu}>Inicio</Link>
         <Link to="/sobre-nosotros" onClick={toggleMenu}>Sobre Nosotros</Link>
         <Link to="/categoria" onClick={toggleMenu}>Categorías</Link>
         <Link to="/contacto" onClick={toggleMenu}>Contacto</Link>
       </div>
 
-      {open && <div className="overlay" onClick={toggleMenu}></div>}
+      {menuOpen && <div className="overlay" onClick={toggleMenu}></div>}
     </>
   );
 }

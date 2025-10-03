@@ -2,8 +2,8 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import PaginaPrincipal from "./pages/PaginaPrincipal";
 import LibroDetalle from "./pages/LibroDetalle";
-import Buscar from "./pages/Buscar"; // NUEVO
 import Navbar from "./components/Navbar";
+import Categorias from "./pages/Categorias";
 import './Styles/App.css';
 
 function App() {
@@ -13,6 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<PaginaPrincipal />} />
         <Route path="/libro/:id" element={<LibroDetalle />} />
+        <Route path="/categoria" element={<Categorias />} />
       </Routes>
     </Router>
   );
