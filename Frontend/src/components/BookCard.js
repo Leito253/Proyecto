@@ -4,7 +4,6 @@ import "../Styles/BookCard.css";
 export default function BookCard({ title, author, cover, onClick }) {
   return (
     <div className="book-card" onClick={onClick}>
-      {/* cover viene de la base de datos, ejemplo: /Archivos/Portadas/ElPrincipito.jpg */}
       <img
         src={`http://localhost:5072${cover}`}
         alt={title}

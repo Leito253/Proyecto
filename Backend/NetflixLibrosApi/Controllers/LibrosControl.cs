@@ -30,5 +30,20 @@ namespace NetflixLibrosAPI.Controladores
             if (libro == null) return NotFound();
             return Ok(libro);
         }
+
+        [HttpGet("buscar")]
+        public async Task<ActionResult<IEnumerable<Libro>>> BuscarLibros([FromQuery] string query)
+        {
+            if (string.IsNullOrWhiteSpace(query))
+            {
+                return BadRequest("Debe ingresar un término de búsqueda.");
+            }
+
+        var libros = await _context.Libros
+            .Where(l => l.Titulo.Contains(query) || l.Autor.Contains(query))
+            .ToListAsync();
+
+            return Ok(libros);
+        }
     }
 }
