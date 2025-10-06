@@ -16,6 +16,7 @@ public class LibrosController : ControllerBase
         _context = context;
     }
 
+    // GET /api/Libros
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Libro>>> ObtenerLibros()
     {
@@ -23,6 +24,7 @@ public class LibrosController : ControllerBase
         return Ok(libros);
     }
 
+    // GET /api/Libros/{id}
     [HttpGet("{id}")]
     public async Task<ActionResult<Libro>> ObtenerLibro(int id)
     {
@@ -31,20 +33,30 @@ public class LibrosController : ControllerBase
         return Ok(libro);
     }
 
+    // GET /api/Libros/buscar?query=texto
     [HttpGet("buscar")]
-    public async Task<ActionResult<IEnumerable<Libro>>> BuscarLibros([FromQuery] string query)
+    public async Task<IActionResult> Buscar([FromQuery] string query)
     {
         if (string.IsNullOrWhiteSpace(query))
-        {
-            return BadRequest("Debe ingresar un término de búsqueda.");
-        }
+            return BadRequest("Debe ingresar un texto de búsqueda.");
 
-    var libros = await _context.Libros
-        .Where(l => l.Titulo.Contains(query) || l.Autor.Contains(query))
-        .ToListAsync();
+        var resultados = await _context.Libros
+            .Where(l =>
+                l.Titulo.Contains(query) ||
+                l.Autor.Contains(query) ||
+                l.Descripcion.Contains(query))
+            .Select(l => new
+            {
+                l.Id,
+                l.Titulo,
+                l.Autor,
+                l.UrlPortada,
+                l.UrlPdf,
+                l.Descripcion,
+                l.CategoriaId
+            })
+            .ToListAsync();
 
-        return Ok(libros);
+        return Ok(resultados);
     }
 }
-
-

@@ -1,35 +1,31 @@
-/*  Navbar  */
 .navbar {
   display: flex;
-  justify-content: space-between; /* título a la izquierda, resto a la derecha */
+  justify-content: space-between;
   align-items: center;
   background-color: #141414;
-  padding: 0rem 1rem;
+  padding: 0.2rem 1rem;
   color: #fff;
   position: relative;
   z-index: 500;
   box-shadow: 0 4px 10px rgba(0,0,0,0.5);
 }
 
-/* Título */
 .navbar h1 {
   font-size: 1.8rem;
   font-weight: 700;
   color: #e50914;
   margin: 0;
-  white-space: nowrap; /* mantener en una línea */
+  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
-/* Contenedor de la derecha (menu + lupa) */
 .navbar-right {
   display: flex;
   align-items: center;
-  gap: 2rem; /* separación entre hamburguesa y lupa */
+  gap: 2rem;
 }
 
-/*  Botón de hamburguesa  */
 .menu-toggle {
   background: none;
   border: none;
@@ -43,7 +39,6 @@
   color: #e50914;
 }
 
-/*  Buscador estilo lupa  */
 .search-container {
   position: relative;
   display: flex;
@@ -63,7 +58,6 @@
   color: #e50914;
 }
 
-/* Caja de búsqueda inicialmente oculta */
 .search-box {
   position: absolute;
   right: 0;
@@ -94,14 +88,12 @@
   color: #bbb;
 }
 
-/* Mostrar la caja al hacer click (JS agrega clase .active) */
 .search-box.active {
   width: 200px;
   padding: 0.2rem 0.5rem;
   opacity: 1;
 }
 
-/*  Sidebar  */
 .sidebar {
   position: fixed;
   top: 0;
@@ -133,7 +125,6 @@
   color: #e50914;
 }
 
-/*  Overlay  */
 .overlay {
   position: fixed;
   top: 0;
@@ -144,7 +135,6 @@
   z-index: 900;
 }
 
-/*  Dropdown de resultados  */
 .search-dropdown {
   position: absolute;
   top: 100%;
@@ -171,7 +161,6 @@
   color: #fff;
 }
 
-/*  Responsive  */
 @media (max-width: 768px) {
   .search-box {
     display: none;

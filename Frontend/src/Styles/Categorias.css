@@ -1,80 +1,46 @@
-/* Pagina de Categorías estilo Netflix */
-.categorias-page {
+.pagina-categorias {
   padding: 2rem 3rem;
-  background-color: #141414;
-  color: #fff;
-  min-height: 100vh;
-  font-family: "Roboto", sans-serif;
 }
 
-.categorias-page h1.titulo {
+.titulo-categorias {
   text-align: center;
   font-size: 2.5rem;
   font-weight: 700;
   color: #e50914;
-  margin-bottom: 2rem;
-}
-
-/* Botones de categorías */
-.categoria-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
   margin-bottom: 3rem;
 }
 
-.categoria-buttons button {
-  background-color: #e50914;
-  color: #fff;
-  border: none;
-  padding: 0.6rem 1.2rem;
-  border-radius: 4px;
-  font-weight: 500;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: background 0.3s, transform 0.2s;
+.categoria-seccion {
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #333;
+  padding-bottom: 2rem;
 }
 
-.categoria-buttons button:hover {
-  background-color: #ff2a2a;
-  transform: scale(1.05);
+.categoria-nombre {
+  color: #e50914;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin: 1.5rem 0 1rem 0;
+  text-transform: uppercase;
 }
 
-/* Grid de libros */
-.grid {
+.grid-categoria {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 2rem;
 }
 
-.book-link {
-  text-decoration: none;
-  color: #fff;
+.sin-libros {
+  color: #bbb;
+  font-style: italic;
+  text-align: center;
+  margin-top: 1rem;
 }
 
-.book-link:hover {
-  transform: scale(1.05);
-  transition: transform 0.2s;
-}
-
-/* Loader */
 .cargando {
   text-align: center;
   margin-top: 5rem;
   font-size: 1.5rem;
   color: #bbb;
-}
-
-/* Responsivo */
-@media (max-width: 768px) {
-  .grid {
-    gap: 1rem;
-  }
-  
-  .categoria-buttons button {
-    padding: 0.5rem 1rem;
-    font-size: 0.9rem;
-  }
 }
