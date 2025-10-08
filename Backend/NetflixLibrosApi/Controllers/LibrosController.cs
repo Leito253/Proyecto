@@ -16,7 +16,6 @@ public class LibrosController : ControllerBase
         _context = context;
     }
 
-    // GET /api/Libros
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Libro>>> ObtenerLibros()
     {
@@ -24,7 +23,6 @@ public class LibrosController : ControllerBase
         return Ok(libros);
     }
 
-    // GET /api/Libros/{id}
     [HttpGet("{id}")]
     public async Task<ActionResult<Libro>> ObtenerLibro(int id)
     {
@@ -33,7 +31,6 @@ public class LibrosController : ControllerBase
         return Ok(libro);
     }
 
-    // GET /api/Libros/buscar?query=texto
     [HttpGet("buscar")]
     public async Task<IActionResult> Buscar([FromQuery] string query)
     {

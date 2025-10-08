@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useLocation, Link } from "react-router-dom";
+import { useLocation, Link, useNavigate } from "react-router-dom";
 import BookCard from "../components/BookCard";
 import "../Styles/PaginaPrincipal.css";
 
@@ -7,6 +7,7 @@ export default function Buscar() {
     const [libros, setLibros] = useState([]);
     const [loading, setLoading] = useState(true);
     const location = useLocation();
+    const navigate = useNavigate(); // 👈 para volver atrás
 
     const query = new URLSearchParams(location.search).get("query");
 
@@ -33,6 +34,10 @@ export default function Buscar() {
 
     return (
         <main className="pagina-principal">
+            <button className="btn-volver" onClick={() => navigate(-1)}>
+                ⬅ Volver
+            </button>
+
             <h1 className="titulo">🔍 Resultados para: "{query}"</h1>
 
             <div className="grid">

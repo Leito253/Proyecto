@@ -1,0 +1,84 @@
+/* src/Styles/Login.css */
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #141414, #000);
+    color: #fff;
+    font-family: "Arial", sans-serif;
+    padding: 20px;
+}
+
+.login-container h1 {
+    font-size: 3rem;
+    color: #e50914;
+    margin-bottom: 2rem;
+    text-align: center;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 400px;
+    gap: 1rem;
+    background-color: #1f1f1f;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(229, 9, 20, 0.5);
+}
+
+.login-form input {
+    padding: 0.8rem 1rem;
+    border: none;
+    border-radius: 6px;
+    background-color: #141414;
+    color: #fff;
+    font-size: 1rem;
+}
+
+.login-form input::placeholder {
+    color: #bbb;
+}
+
+.login-form button {
+    padding: 0.8rem 1rem;
+    border: none;
+    border-radius: 6px;
+    background-color: #e50914;
+    color: #fff;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.login-form button:hover {
+    background-color: #b00710;
+}
+
+.divider {
+    margin: 1.5rem 0;
+    font-size: 1rem;
+    color: #bbb;
+    text-align: center;
+}
+
+.GoogleLogin {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 500px) {
+    .login-form {
+        width: 90%;
+        padding: 1.5rem;
+    }
+
+    .login-container h1 {
+        font-size: 2.5rem;
+    }
+}

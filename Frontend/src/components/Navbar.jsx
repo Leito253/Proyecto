@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import { FaBars, FaTimes, FaSearch } from "react-icons/fa";
 import { Link, useNavigate } from "react-router-dom";
 import "../Styles/Navbar.css";
@@ -7,10 +7,11 @@ export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [searchActive, setSearchActive] = useState(false);
   const [search, setSearch] = useState("");
+  const searchRef = useRef(null);
   const navigate = useNavigate();
 
   const toggleMenu = () => setMenuOpen(!menuOpen);
-  const toggleSearch = () => setSearchActive(!searchActive);
+  const toggleSearch = () => setSearchActive((prev) => !prev);
 
   const handleSearchSubmit = (e) => {
     e.preventDefault();
@@ -21,13 +22,24 @@ export default function Navbar() {
     }
   };
 
+  // Cerrar buscador al hacer click fuera
+  useEffect(() => {
+    const handleClickOutside = (e) => {
+      if (searchRef.current && !searchRef.current.contains(e.target)) {
+        setSearchActive(false);
+      }
+    };
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
   return (
     <>
       <nav className="navbar">
         <h1>Netflix de Libros</h1>
 
         <div className="navbar-right">
-          <div className="search-container">
+          <div className="search-container" ref={searchRef}>
             <button className="search-toggle" onClick={toggleSearch}>
               <FaSearch />
             </button>

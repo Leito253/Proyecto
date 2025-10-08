@@ -37,6 +37,30 @@
       "PackagePath": "staticwebassets/Archivos/PDFS/Fundación.pdf"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf"
     },
@@ -85,6 +109,30 @@
       "PackagePath": "staticwebassets/Archivos/Portadas/Fundacion.jpg"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/LaIslaDelTesoro.jpg"
     },
@@ -93,8 +141,8 @@
       "PackagePath": "staticwebassets/Archivos/Portadas/Portugueses.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/hp1.jpeg",
-      "PackagePath": "staticwebassets/Archivos/Portadas/hp1.jpeg"
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NetflixLibrosApi.Microsoft.AspNetCore.StaticWebAssets.props",
