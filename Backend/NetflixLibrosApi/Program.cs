@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using NetflixLibrosAPI.Data;
+using NetflixLibrosApi.Data;
 using Microsoft.Extensions.FileProviders;
 using System.IO;
 

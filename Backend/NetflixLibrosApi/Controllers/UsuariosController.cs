@@ -1,13 +1,13 @@
 using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks; 
-using System.Text; 
-using System.IdentityModel.Tokens.Jwt; 
-using System.Security.Claims; 
-using Microsoft.IdentityModel.Tokens; 
-using Google.Apis.Auth; 
-using BCrypt.Net; 
-using NetflixLibrosApi.Models; 
+using Microsoft.EntityFrameworkCore;
 using NetflixLibrosApi.Data;
+using NetflixLibrosApi.Modelos;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using Microsoft.IdentityModel.Tokens;
+using Google.Apis.Auth;
+
 
 namespace NetflixLibrosAPI.Controllers
 {

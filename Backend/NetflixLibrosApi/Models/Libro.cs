@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
-namespace NetflixLibrosAPI.Modelos;
+
+namespace NetflixLibrosApi.Modelos;
 
 public class Libro
 {

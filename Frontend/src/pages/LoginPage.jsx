@@ -1,15 +1,16 @@
 import React from "react";
 import { GoogleLogin } from "@react-oauth/google";
 import { useNavigate } from "react-router-dom";
-import { jwtDecode } from "jwt-decode";
-import "../Styles/Login.css";
+import { jwt_decode }from "jwt-decode";
+import "../Styles/login.css";
 
-export default function Login() {
+export default function LoginPage() {
     const navigate = useNavigate();
 
-    const handleGoogleLoginSuccess = (response) => {
-        const decoded = jwtDecode(response.credential);
+    const handleGoogleLoginSuccess = (credentialResponse) => {
+        const decoded = jwt_decode(credentialResponse.credential);
 
+        // Guardar usuario en localStorage
         localStorage.setItem("usuario", JSON.stringify({
             nombre: decoded.name,
             email: decoded.email,
@@ -17,7 +18,7 @@ export default function Login() {
             googleId: decoded.sub
         }));
 
-        navigate("/");
+        navigate("/"); // Redirige a la página principal
     };
 
     const handleGoogleLoginError = () => {
@@ -27,8 +28,8 @@ export default function Login() {
 
     return (
         <div className="login-container">
-            <h1>Iniciar sesión</h1>
-            <div className="google-login">
+            <div className="login-box">
+                <h1>Iniciar sesión</h1>
                 <GoogleLogin
                     onSuccess={handleGoogleLoginSuccess}
                     onError={handleGoogleLoginError}

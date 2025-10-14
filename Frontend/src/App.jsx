@@ -4,7 +4,7 @@ import PaginaPrincipal from "./pages/PaginaPrincipal";
 import LibroDetalle from "./pages/LibroDetalle";
 import Categorias from "./pages/Categorias";
 import Buscar from "./pages/Buscar";
-import Login from "./pages/Login";
+import Login from "./pages/LoginPage";
 import Navbar from "./components/Navbar";
 import './Styles/App.css';
 
@@ -13,13 +13,13 @@ function App() {
 
   return (
     <Router>
-      <Navbar />
+      {usuario && <Navbar />}
       <Routes>
         <Route path="/" element={usuario ? <PaginaPrincipal /> : <Navigate to="/login" />} />
         <Route path="/login" element={<Login />} />
-        <Route path="/libro/:id" element={<LibroDetalle />} />
-        <Route path="/categoria" element={<Categorias />} />
-        <Route path="/buscar" element={<Buscar />} />
+        <Route path="/libro/:id" element={usuario ? <LibroDetalle /> : <Navigate to="/login" />} />
+        <Route path="/categoria" element={usuario ? <Categorias /> : <Navigate to="/login" />} />
+        <Route path="/buscar" element={usuario ? <Buscar /> : <Navigate to="/login" />} />
       </Routes>
     </Router>
   );

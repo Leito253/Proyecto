@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using NetflixLibrosAPI.Data;
-using NetflixLibrosAPI.Modelos;
+using NetflixLibrosApi.Data;
+using NetflixLibrosApi.Modelos;
 
 namespace NetflixLibrosAPI.Controladores;
 

@@ -1,4 +1,4 @@
-namespace NetflixLibrosAPI.Modelos
+namespace NetflixLibrosApi.Modelos
 {
     public class Categoria
     {

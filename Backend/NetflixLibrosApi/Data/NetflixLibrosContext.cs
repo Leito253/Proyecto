@@ -1,20 +1,20 @@
 using Microsoft.EntityFrameworkCore;
-using NetflixLibrosAPI.Modelos;
+using NetflixLibrosApi.Modelos;
 
-namespace NetflixLibrosAPI.Data
+namespace NetflixLibrosApi.Data
 {
-public class NetflixLibrosContext : DbContext
-{
-      public NetflixLibrosContext(DbContextOptions<NetflixLibrosContext> options)
-            : base(options)
+      public class NetflixLibrosContext : DbContext
       {
-      }
+            public NetflixLibrosContext(DbContextOptions<NetflixLibrosContext> options)
+                  : base(options)
+            {
+            }
 
-      public DbSet<Libro> Libros { get; set; }
-      public DbSet<Categoria> Categorias { get; set; }
-      public DbSet<Usuario> Usuarios { get; set; } = null!;
+            public DbSet<Libro> Libros { get; set; }
+            public DbSet<Categoria> Categorias { get; set; }
+            public DbSet<Usuario> Usuarios { get; set; } = null!;
 
-      protected override void OnModelCreating(ModelBuilder modelBuilder)
+            protected override void OnModelCreating(ModelBuilder modelBuilder)
             {
                   // Configuración de la tabla Libros
                   modelBuilder.Entity<Libro>(entity =>
