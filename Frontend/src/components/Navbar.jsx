@@ -9,6 +9,8 @@ export default function Navbar() {
   const [search, setSearch] = useState("");
   const searchRef = useRef(null);
   const navigate = useNavigate();
+  
+  const usuario = JSON.parse(localStorage.getItem("usuario") || "null");
 
   const toggleMenu = () => setMenuOpen(!menuOpen);
   const toggleSearch = () => setSearchActive((prev) => !prev);
@@ -22,7 +24,6 @@ export default function Navbar() {
     }
   };
 
-  // Cerrar buscador al hacer click fuera
   useEffect(() => {
     const handleClickOutside = (e) => {
       if (searchRef.current && !searchRef.current.contains(e.target)) {
@@ -67,6 +68,8 @@ export default function Navbar() {
         <Link to="/sobre-nosotros" onClick={toggleMenu}>Sobre Nosotros</Link>
         <Link to="/categoria" onClick={toggleMenu}>Categorías</Link>
         <Link to="/contacto" onClick={toggleMenu}>Contacto</Link>
+
+        {usuario && <Link to="/cuenta" onClick={toggleMenu}>Mi Cuenta</Link>}
       </div>
 
       {menuOpen && <div className="overlay" onClick={toggleMenu}></div>}

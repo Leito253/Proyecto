@@ -10,7 +10,6 @@ export default function Categorias() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Traemos todas las categorías
     fetch("http://localhost:5072/api/Categorias")
       .then((res) => res.json())
       .then((data) => setCategorias(data))

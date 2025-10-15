@@ -1,14 +1,12 @@
 import React from "react";
 import { GoogleLogin } from "@react-oauth/google";
-import { useNavigate } from "react-router-dom";
-import { jwt_decode }from "jwt-decode";
+import { jwtDecode } from "jwt-decode";
 import "../Styles/login.css";
 
 export default function LoginPage() {
-    const navigate = useNavigate();
 
     const handleGoogleLoginSuccess = (credentialResponse) => {
-        const decoded = jwt_decode(credentialResponse.credential);
+        const decoded = jwtDecode(credentialResponse.credential);
 
         // Guardar usuario en localStorage
         localStorage.setItem("usuario", JSON.stringify({
@@ -16,9 +14,9 @@ export default function LoginPage() {
             email: decoded.email,
             imagen: decoded.picture,
             googleId: decoded.sub
-        }));
-
-        navigate("/"); // Redirige a la página principal
+          }));
+          
+          window.location.href = "/";
     };
 
     const handleGoogleLoginError = () => {

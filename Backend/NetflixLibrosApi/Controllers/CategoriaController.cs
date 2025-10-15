@@ -3,26 +3,82 @@ using Microsoft.EntityFrameworkCore;
 using NetflixLibrosApi.Data;
 using NetflixLibrosApi.Modelos;
 
-namespace NetflixLibrosApi.Controladores;
-
-[Route("[controller]")]
-public class CategoriaControl : Controller
+namespace NetflixLibrosAPI.Controllers;
+[Route("api/[controller]")]
+[ApiController]
+public class CategoriasController : ControllerBase
 {
-    private readonly ILogger<CategoriaControl> _logger;
+    private readonly NetflixLibrosContext _context;
 
-    public CategoriaControl(ILogger<CategoriaControl> logger)
+    public CategoriasController(NetflixLibrosContext context)
     {
-        _logger = logger;
+        _context = context;
     }
 
-    public IActionResult Index()
+    [HttpGet]
+    public async Task<ActionResult<IEnumerable<Categoria>>> GetCategorias()
     {
-        return View();
+        try
+        {
+            var categorias = await _context.Categorias.ToListAsync();
+            return Ok(categorias);
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, new { mensaje = "Error al obtener las categorías", detalle = ex.Message });
+        }
     }
 
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
+    [HttpGet("{id}")]
+    public async Task<ActionResult<Categoria>> GetCategoria(int id)
     {
-        return View("Error!");
+        var categoria = await _context.Categorias.FindAsync(id);
+
+        if (categoria == null)
+            return NotFound(new { mensaje = "Categoría no encontrada" });
+
+        return Ok(categoria);
+    }
+
+    [HttpPost]
+    public async Task<ActionResult<Categoria>> CrearCategoria(Categoria categoria)
+    {
+        _context.Categorias.Add(categoria);
+        await _context.SaveChangesAsync();
+        return CreatedAtAction(nameof(GetCategoria), new { id = categoria.Id }, categoria);
+    }
+
+    [HttpPut("{id}")]
+    public async Task<IActionResult> ActualizarCategoria(int id, Categoria categoria)
+    {
+        if (id != categoria.Id)
+            return BadRequest(new { mensaje = "ID no coincide" });
+
+        _context.Entry(categoria).State = EntityState.Modified;
+
+        try
+        {
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+        catch (DbUpdateConcurrencyException)
+        {
+            if (!_context.Categorias.Any(c => c.Id == id))
+                return NotFound(new { mensaje = "Categoría no encontrada" });
+            else
+                throw;
+        }
+    }
+
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> EliminarCategoria(int id)
+    {
+        var categoria = await _context.Categorias.FindAsync(id);
+        if (categoria == null)
+            return NotFound(new { mensaje = "Categoría no encontrada" });
+
+        _context.Categorias.Remove(categoria);
+        await _context.SaveChangesAsync();
+        return NoContent();
     }
 }
