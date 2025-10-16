@@ -7,6 +7,7 @@ import Buscar from "./pages/Buscar";
 import CuentaPage from "./pages/CuentaPage";
 import Login from "./pages/LoginPage";
 import Navbar from "./components/Navbar";
+import SobreNosotros from "./pages/SobreNosotros";
 import './Styles/App.css';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/libro/:id" element={usuario ? <LibroDetalle /> : <Navigate to="/login" />} />
         <Route path="/categoria" element={usuario ? <Categorias /> : <Navigate to="/login" />} />
+        <Route path="/sobre-nosotros" element={<SobreNosotros />} />
         <Route path="/cuenta" element={usuario ? <CuentaPage /> : <Navigate to="/login" />} />
         <Route path="/buscar" element={usuario ? <Buscar /> : <Navigate to="/login" />} />
       </Routes>
