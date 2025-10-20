@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5oazlcb1lvowZSYHDNrU1WvgFgXdpSSlf53Zs74o2xE=",
+  "Hash": "CX94xxS1XLf1YqTPHmwwXkuCQVuKN5JVts/77L7UXSw=",
   "Source": "NetflixLibrosApi",
   "BasePath": "_content/NetflixLibrosApi",
   "Mode": "Default",
@@ -22,15 +22,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/1984.pdf",
+      "RelativePath": "Archivos/PDFS/1984#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "s20qocp925",
+      "Integrity": "HOV3BNkZ5bu6Pxf41CcECM4gQ6ydn8ogkH2rcFs9TFM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/1984.pdf"
@@ -41,15 +43,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
+      "RelativePath": "Archivos/PDFS/20MilLeguasDeViajeSubmarino#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "egscrmfnup",
+      "Integrity": "Dt5CdihSO6QF4NbGkeA/ExaVUfZM5SOEBj2AdoBFmCY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf"
@@ -60,15 +64,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
+      "RelativePath": "Archivos/PDFS/AliciaEnElPaísDeLasMaravillas#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "2od2lp72qj",
+      "Integrity": "stqB6GCjvU0BVInFTXYG2+jJOZZ6NFQBrlrl/nEEQbE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf"
@@ -79,15 +85,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/CienAñosDeSoledad.pdf",
+      "RelativePath": "Archivos/PDFS/CienAñosDeSoledad#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "twxy15wpeo",
+      "Integrity": "0woE2WExM/ywu5Ql5g/yCa88Zsg0dDKZOveOwjnsyd4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf"
@@ -98,15 +106,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/DiarioLoco.pdf",
+      "RelativePath": "Archivos/PDFS/DiarioLoco#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "t977jd4rn7",
+      "Integrity": "kWcmiFBw9HZPGf63OoelfrDa2s8a0Zc6GsuEoVrRf6c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/DiarioLoco.pdf"
@@ -117,15 +127,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
+      "RelativePath": "Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "bif4vilwo0",
+      "Integrity": "g36ZPXvgkQ8+Xie5KZVVLRKgHxPO7zb24aCP+eJR2AQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf"
@@ -136,15 +148,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/ElHobbit.pdf",
+      "RelativePath": "Archivos/PDFS/ElHobbit#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "z95p1bb28t",
+      "Integrity": "CTwRzY2H7Dr4pZUfrXtP8HX1SNm+NoyCeI/QDVjPm10=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/ElHobbit.pdf"
@@ -155,15 +169,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/ElPrincipito.pdf",
+      "RelativePath": "Archivos/PDFS/ElPrincipito#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "jk2de4zseb",
+      "Integrity": "vSONdByLqyvFb7DT5dNKT0S/9WxJu5yNoA4CeFzqDBI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/ElPrincipito.pdf"
@@ -174,15 +190,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/Fundación.pdf",
+      "RelativePath": "Archivos/PDFS/Fundación#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "3qa5b1g9vz",
+      "Integrity": "dWur9L5qDO2ABCSS7dv+cqqqRISYRKQSnpzvZmjvcCY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/Fundación.pdf"
@@ -193,15 +211,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf",
+      "RelativePath": "Archivos/PDFS/HarryPotteryElCalizDeFuego#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "vmi6ivglkr",
+      "Integrity": "1xGoANWE1fcv5nC17PC07H2+TC/x/foaTzFtp2eTCXE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf"
@@ -212,15 +232,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf",
+      "RelativePath": "Archivos/PDFS/HarryPotteryElMisterioDelPrincipe#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "a9gqlmbxyi",
+      "Integrity": "zhGd2wA9PTMMuaBuXJfj3V1mPBwn4X7L5i1FMvojsvw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf"
@@ -231,15 +253,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf",
+      "RelativePath": "Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "4z9c06c4pe",
+      "Integrity": "gKroqk49tyCeZNsfZ1eCV3ibHzZDW8GYCJykDBR6S+U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf"
@@ -250,15 +274,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf",
+      "RelativePath": "Archivos/PDFS/HarryPotteryLaCamaraSecreta#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "2b9vx965k0",
+      "Integrity": "IppGHx2PAT7z2EOxJkdB9r37qoCQP6wPLyNEnJelkSE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf"
@@ -269,15 +295,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf",
+      "RelativePath": "Archivos/PDFS/HarryPotteryLaOrdenDelFenix#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "pzhiyj45f1",
+      "Integrity": "lTl1MlHFNFtEFzUHl9ZOvzMyhvFwzH0hrOKJg6eD9Uc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf"
@@ -288,15 +316,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
+      "RelativePath": "Archivos/PDFS/HarryPotterylaPiedraFilosofal#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "zxr8fcclmb",
+      "Integrity": "iaFnSoD239y3zVk8ti60jCwozNBmCQ8uxmR6BS4C2o0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf"
@@ -307,15 +337,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf",
+      "RelativePath": "Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ojb1ymd7br",
+      "Integrity": "tPqgF0onvd9iyN4mC4W2Jd14YARu3ie2oOLwx59nCbo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf"
@@ -326,15 +358,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/LaIslaDelTesoro.pdf",
+      "RelativePath": "Archivos/PDFS/LaIslaDelTesoro#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "4lniauah6l",
+      "Integrity": "6Kl/W0DTpZowpqwLad5CTKY3wvqaw9bJ5MKx608b3Sg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf"
@@ -345,15 +379,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
+      "RelativePath": "Archivos/PDFS/TresPortuguesesBajoUnParaguas#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "72t872uji4",
+      "Integrity": "H5SDZdSUH+xthqIRyDFfR2DS/AWl8qDoKXMzzy0laNU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf"
@@ -364,15 +400,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/1984.jpg",
+      "RelativePath": "Archivos/Portadas/1984#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "l0rh3j8zuk",
+      "Integrity": "+w0T7xgV1R6jGBkgtbl8HQdNcjY/XctBdX+UP2n6xbc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/1984.jpg"
@@ -383,15 +421,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/20mil.jpg",
+      "RelativePath": "Archivos/Portadas/20mil#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "2n7u8zowb6",
+      "Integrity": "0ok0+qljJ06TNeEQUVPYQlHxuBiBrZQcCzPktUz01c0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/20mil.jpg"
@@ -402,15 +442,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
+      "RelativePath": "Archivos/Portadas/AliciaEnElPaisDeLasMaravillas#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "27j6ezgx9e",
+      "Integrity": "Ut/374kTlQu5lP5WlGclXdqrLPxNdrXXVX2EcwVbN00=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg"
@@ -421,15 +463,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/CienAñosDeSoledad.jpg",
+      "RelativePath": "Archivos/Portadas/CienAñosDeSoledad#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "31sm0hc71i",
+      "Integrity": "mWQJKNvEoWiQUruvM4vKaAWThG8tgAVBvrll+ooj+PE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/CienAñosDeSoledad.jpg"
@@ -440,15 +484,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/DiarioDeUnLoco.jpg",
+      "RelativePath": "Archivos/Portadas/DiarioDeUnLoco#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "04or3fkuon",
+      "Integrity": "MA5jlzEpMenTRVcCVVQCd16+9JvIAOneobw9Vl2c1OY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/DiarioDeUnLoco.jpg"
@@ -459,15 +505,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/ElExtrañoCaso.jpg",
+      "RelativePath": "Archivos/Portadas/ElExtrañoCaso#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "z2a7xpdrdx",
+      "Integrity": "NXytZdgUEVKth8yQ5881KS8Bh0gkWuisyaEQdh8katY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/ElExtrañoCaso.jpg"
@@ -478,15 +526,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/ElHobbit.jpg",
+      "RelativePath": "Archivos/Portadas/ElHobbit#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "hifpvisiy4",
+      "Integrity": "yWGEK2kQ5PBoeEo45tT5uhWXI+1RwghtTFyVl8hs/is=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/ElHobbit.jpg"
@@ -497,15 +547,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/ElPrincipito.jpg",
+      "RelativePath": "Archivos/Portadas/ElPrincipito#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "hwpylknql0",
+      "Integrity": "X1Mm4Ywbu/zXLNNQh7U5opmIIFAavPN6MHJwkcDlGHM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/ElPrincipito.jpg"
@@ -516,15 +568,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/Fundacion.jpg",
+      "RelativePath": "Archivos/Portadas/Fundacion#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "805xp2gc9s",
+      "Integrity": "aGd9kbn1Z2XoeT+0DCDH58QyG0E/yNTjQBotkirVxOU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/Fundacion.jpg"
@@ -535,15 +589,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg",
+      "RelativePath": "Archivos/Portadas/harry-potter-y-la-orden-del-fenix#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "d4mxtbanu2",
+      "Integrity": "w2iXuR6yLCGpBY+DZ1wQTYbUiqgnobEH5WVPfC6QSYw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg"
@@ -554,15 +610,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg",
+      "RelativePath": "Archivos/Portadas/HarryPotteryElCalizDeFuego#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "t023ttra92",
+      "Integrity": "/S20Xfn/N8JYv0llp91Ud8hdGajBUxJltlgQukbJ40Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg"
@@ -573,15 +631,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg",
+      "RelativePath": "Archivos/Portadas/HarryPotteryElMisterioDelPrincipe#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "pp35eappko",
+      "Integrity": "81dKt/3vDFGmf408b1t6XEMmefYEpDOEGD3Vp2Fwzs8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg"
@@ -592,15 +652,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg",
+      "RelativePath": "Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "mh1mvd27y4",
+      "Integrity": "CmRY6GbGtLY0ieiYtUFLR3B3JSkqvBeNRN40UtB8Kak=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg"
@@ -611,15 +673,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg",
+      "RelativePath": "Archivos/Portadas/HarryPotteryLaCamaraSecreta#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "30gktchrss",
+      "Integrity": "A0sijeNJzZxblLHyBVw9g2h9G9BcflGDDgL78P+tLNM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg"
@@ -630,15 +694,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg",
+      "RelativePath": "Archivos/Portadas/HarryPotteryLaPiedraFilosofal#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "hifykbm2ss",
+      "Integrity": "9/xNXujtXTnbRxLaFNUkmJADUiJnkM0K+WVP3A4+ZXE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg"
@@ -649,15 +715,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg",
+      "RelativePath": "Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "5f0kzw3ezb",
+      "Integrity": "IXLH81oylVYcPLPFjPrrvQdC2ko6pfLHWXJu6ENf2S8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg"
@@ -668,15 +736,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/LaIslaDelTesoro.jpg",
+      "RelativePath": "Archivos/Portadas/LaIslaDelTesoro#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "h3rx1ca4wm",
+      "Integrity": "bfiIwf+z8pMUEBwzR2d4G6XEsxfhLc8Ro4mDvdSY+0E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg"
@@ -687,18 +757,2974 @@
       "SourceType": "Discovered",
       "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
-      "RelativePath": "Archivos/Portadas/Portugueses.jpg",
+      "RelativePath": "Archivos/Portadas/Portugueses#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "9e3zc57tzc",
+      "Integrity": "8WtLaQpDcxJU0yRbH0RP6WOOKvJGIXrgcSXmlX3ymc4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/Portugueses.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Archivos/PDFS/1984.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/1984.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HOV3BNkZ5bu6Pxf41CcECM4gQ6ydn8ogkH2rcFs9TFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOV3BNkZ5bu6Pxf41CcECM4gQ6ydn8ogkH2rcFs9TFM="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/1984.s20qocp925.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/1984.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HOV3BNkZ5bu6Pxf41CcECM4gQ6ydn8ogkH2rcFs9TFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s20qocp925"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/1984.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOV3BNkZ5bu6Pxf41CcECM4gQ6ydn8ogkH2rcFs9TFM="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/20MilLeguasDeViajeSubmarino.egscrmfnup.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1419980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dt5CdihSO6QF4NbGkeA/ExaVUfZM5SOEBj2AdoBFmCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egscrmfnup"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dt5CdihSO6QF4NbGkeA/ExaVUfZM5SOEBj2AdoBFmCY="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1419980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dt5CdihSO6QF4NbGkeA/ExaVUfZM5SOEBj2AdoBFmCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dt5CdihSO6QF4NbGkeA/ExaVUfZM5SOEBj2AdoBFmCY="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.2od2lp72qj.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2754420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"stqB6GCjvU0BVInFTXYG2+jJOZZ6NFQBrlrl/nEEQbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2od2lp72qj"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-stqB6GCjvU0BVInFTXYG2+jJOZZ6NFQBrlrl/nEEQbE="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2754420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"stqB6GCjvU0BVInFTXYG2+jJOZZ6NFQBrlrl/nEEQbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-stqB6GCjvU0BVInFTXYG2+jJOZZ6NFQBrlrl/nEEQbE="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/CienAñosDeSoledad.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1256963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0woE2WExM/ywu5Ql5g/yCa88Zsg0dDKZOveOwjnsyd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0woE2WExM/ywu5Ql5g/yCa88Zsg0dDKZOveOwjnsyd4="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/CienAñosDeSoledad.twxy15wpeo.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1256963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0woE2WExM/ywu5Ql5g/yCa88Zsg0dDKZOveOwjnsyd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "twxy15wpeo"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/CienAñosDeSoledad.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0woE2WExM/ywu5Ql5g/yCa88Zsg0dDKZOveOwjnsyd4="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/DiarioLoco.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DiarioLoco.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kWcmiFBw9HZPGf63OoelfrDa2s8a0Zc6GsuEoVrRf6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kWcmiFBw9HZPGf63OoelfrDa2s8a0Zc6GsuEoVrRf6c="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/DiarioLoco.t977jd4rn7.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DiarioLoco.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kWcmiFBw9HZPGf63OoelfrDa2s8a0Zc6GsuEoVrRf6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t977jd4rn7"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/DiarioLoco.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kWcmiFBw9HZPGf63OoelfrDa2s8a0Zc6GsuEoVrRf6c="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.bif4vilwo0.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g36ZPXvgkQ8+Xie5KZVVLRKgHxPO7zb24aCP+eJR2AQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bif4vilwo0"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g36ZPXvgkQ8+Xie5KZVVLRKgHxPO7zb24aCP+eJR2AQ="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g36ZPXvgkQ8+Xie5KZVVLRKgHxPO7zb24aCP+eJR2AQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g36ZPXvgkQ8+Xie5KZVVLRKgHxPO7zb24aCP+eJR2AQ="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/ElHobbit.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElHobbit.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "533299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CTwRzY2H7Dr4pZUfrXtP8HX1SNm+NoyCeI/QDVjPm10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CTwRzY2H7Dr4pZUfrXtP8HX1SNm+NoyCeI/QDVjPm10="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/ElHobbit.z95p1bb28t.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElHobbit.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "533299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CTwRzY2H7Dr4pZUfrXtP8HX1SNm+NoyCeI/QDVjPm10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z95p1bb28t"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/ElHobbit.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CTwRzY2H7Dr4pZUfrXtP8HX1SNm+NoyCeI/QDVjPm10="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/ElPrincipito.jk2de4zseb.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElPrincipito.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "682507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vSONdByLqyvFb7DT5dNKT0S/9WxJu5yNoA4CeFzqDBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jk2de4zseb"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/ElPrincipito.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vSONdByLqyvFb7DT5dNKT0S/9WxJu5yNoA4CeFzqDBI="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/ElPrincipito.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElPrincipito.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "682507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vSONdByLqyvFb7DT5dNKT0S/9WxJu5yNoA4CeFzqDBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vSONdByLqyvFb7DT5dNKT0S/9WxJu5yNoA4CeFzqDBI="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/Fundación.3qa5b1g9vz.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Fundación.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "593130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dWur9L5qDO2ABCSS7dv+cqqqRISYRKQSnpzvZmjvcCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3qa5b1g9vz"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/Fundación.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dWur9L5qDO2ABCSS7dv+cqqqRISYRKQSnpzvZmjvcCY="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/Fundación.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Fundación.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "593130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dWur9L5qDO2ABCSS7dv+cqqqRISYRKQSnpzvZmjvcCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dWur9L5qDO2ABCSS7dv+cqqqRISYRKQSnpzvZmjvcCY="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1905779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1xGoANWE1fcv5nC17PC07H2+TC/x/foaTzFtp2eTCXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1xGoANWE1fcv5nC17PC07H2+TC/x/foaTzFtp2eTCXE="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryElCalizDeFuego.vmi6ivglkr.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1905779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1xGoANWE1fcv5nC17PC07H2+TC/x/foaTzFtp2eTCXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vmi6ivglkr"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1xGoANWE1fcv5nC17PC07H2+TC/x/foaTzFtp2eTCXE="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.a9gqlmbxyi.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2981813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zhGd2wA9PTMMuaBuXJfj3V1mPBwn4X7L5i1FMvojsvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a9gqlmbxyi"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zhGd2wA9PTMMuaBuXJfj3V1mPBwn4X7L5i1FMvojsvw="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2981813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zhGd2wA9PTMMuaBuXJfj3V1mPBwn4X7L5i1FMvojsvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zhGd2wA9PTMMuaBuXJfj3V1mPBwn4X7L5i1FMvojsvw="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.4z9c06c4pe.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "847992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gKroqk49tyCeZNsfZ1eCV3ibHzZDW8GYCJykDBR6S+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4z9c06c4pe"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gKroqk49tyCeZNsfZ1eCV3ibHzZDW8GYCJykDBR6S+U="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "847992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gKroqk49tyCeZNsfZ1eCV3ibHzZDW8GYCJykDBR6S+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gKroqk49tyCeZNsfZ1eCV3ibHzZDW8GYCJykDBR6S+U="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryLaCamaraSecreta.2b9vx965k0.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1065771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IppGHx2PAT7z2EOxJkdB9r37qoCQP6wPLyNEnJelkSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2b9vx965k0"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IppGHx2PAT7z2EOxJkdB9r37qoCQP6wPLyNEnJelkSE="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1065771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IppGHx2PAT7z2EOxJkdB9r37qoCQP6wPLyNEnJelkSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IppGHx2PAT7z2EOxJkdB9r37qoCQP6wPLyNEnJelkSE="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6637404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTl1MlHFNFtEFzUHl9ZOvzMyhvFwzH0hrOKJg6eD9Uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTl1MlHFNFtEFzUHl9ZOvzMyhvFwzH0hrOKJg6eD9Uc="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pzhiyj45f1.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6637404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTl1MlHFNFtEFzUHl9ZOvzMyhvFwzH0hrOKJg6eD9Uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzhiyj45f1"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTl1MlHFNFtEFzUHl9ZOvzMyhvFwzH0hrOKJg6eD9Uc="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "885354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iaFnSoD239y3zVk8ti60jCwozNBmCQ8uxmR6BS4C2o0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iaFnSoD239y3zVk8ti60jCwozNBmCQ8uxmR6BS4C2o0="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotterylaPiedraFilosofal.zxr8fcclmb.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "885354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iaFnSoD239y3zVk8ti60jCwozNBmCQ8uxmR6BS4C2o0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxr8fcclmb"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iaFnSoD239y3zVk8ti60jCwozNBmCQ8uxmR6BS4C2o0="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.ojb1ymd7br.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4313822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tPqgF0onvd9iyN4mC4W2Jd14YARu3ie2oOLwx59nCbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ojb1ymd7br"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tPqgF0onvd9iyN4mC4W2Jd14YARu3ie2oOLwx59nCbo="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4313822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tPqgF0onvd9iyN4mC4W2Jd14YARu3ie2oOLwx59nCbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tPqgF0onvd9iyN4mC4W2Jd14YARu3ie2oOLwx59nCbo="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/LaIslaDelTesoro.4lniauah6l.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20390771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Kl/W0DTpZowpqwLad5CTKY3wvqaw9bJ5MKx608b3Sg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4lniauah6l"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/LaIslaDelTesoro.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Kl/W0DTpZowpqwLad5CTKY3wvqaw9bJ5MKx608b3Sg="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/LaIslaDelTesoro.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20390771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Kl/W0DTpZowpqwLad5CTKY3wvqaw9bJ5MKx608b3Sg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Kl/W0DTpZowpqwLad5CTKY3wvqaw9bJ5MKx608b3Sg="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/TresPortuguesesBajoUnParaguas.72t872uji4.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "585075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H5SDZdSUH+xthqIRyDFfR2DS/AWl8qDoKXMzzy0laNU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72t872uji4"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H5SDZdSUH+xthqIRyDFfR2DS/AWl8qDoKXMzzy0laNU="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "585075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H5SDZdSUH+xthqIRyDFfR2DS/AWl8qDoKXMzzy0laNU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H5SDZdSUH+xthqIRyDFfR2DS/AWl8qDoKXMzzy0laNU="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/1984.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/1984.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+w0T7xgV1R6jGBkgtbl8HQdNcjY/XctBdX+UP2n6xbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+w0T7xgV1R6jGBkgtbl8HQdNcjY/XctBdX+UP2n6xbc="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/1984.l0rh3j8zuk.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/1984.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+w0T7xgV1R6jGBkgtbl8HQdNcjY/XctBdX+UP2n6xbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l0rh3j8zuk"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/1984.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+w0T7xgV1R6jGBkgtbl8HQdNcjY/XctBdX+UP2n6xbc="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/20mil.2n7u8zowb6.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/20mil.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ok0+qljJ06TNeEQUVPYQlHxuBiBrZQcCzPktUz01c0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2n7u8zowb6"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/20mil.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ok0+qljJ06TNeEQUVPYQlHxuBiBrZQcCzPktUz01c0="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/20mil.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/20mil.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ok0+qljJ06TNeEQUVPYQlHxuBiBrZQcCzPktUz01c0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ok0+qljJ06TNeEQUVPYQlHxuBiBrZQcCzPktUz01c0="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.27j6ezgx9e.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ut/374kTlQu5lP5WlGclXdqrLPxNdrXXVX2EcwVbN00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27j6ezgx9e"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ut/374kTlQu5lP5WlGclXdqrLPxNdrXXVX2EcwVbN00="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ut/374kTlQu5lP5WlGclXdqrLPxNdrXXVX2EcwVbN00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ut/374kTlQu5lP5WlGclXdqrLPxNdrXXVX2EcwVbN00="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/CienAñosDeSoledad.31sm0hc71i.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/CienAñosDeSoledad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mWQJKNvEoWiQUruvM4vKaAWThG8tgAVBvrll+ooj+PE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "31sm0hc71i"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/CienAñosDeSoledad.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mWQJKNvEoWiQUruvM4vKaAWThG8tgAVBvrll+ooj+PE="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/CienAñosDeSoledad.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/CienAñosDeSoledad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mWQJKNvEoWiQUruvM4vKaAWThG8tgAVBvrll+ooj+PE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mWQJKNvEoWiQUruvM4vKaAWThG8tgAVBvrll+ooj+PE="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/DiarioDeUnLoco.04or3fkuon.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/DiarioDeUnLoco.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MA5jlzEpMenTRVcCVVQCd16+9JvIAOneobw9Vl2c1OY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04or3fkuon"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/DiarioDeUnLoco.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MA5jlzEpMenTRVcCVVQCd16+9JvIAOneobw9Vl2c1OY="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/DiarioDeUnLoco.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/DiarioDeUnLoco.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MA5jlzEpMenTRVcCVVQCd16+9JvIAOneobw9Vl2c1OY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MA5jlzEpMenTRVcCVVQCd16+9JvIAOneobw9Vl2c1OY="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/ElExtrañoCaso.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElExtrañoCaso.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NXytZdgUEVKth8yQ5881KS8Bh0gkWuisyaEQdh8katY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NXytZdgUEVKth8yQ5881KS8Bh0gkWuisyaEQdh8katY="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/ElExtrañoCaso.z2a7xpdrdx.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElExtrañoCaso.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NXytZdgUEVKth8yQ5881KS8Bh0gkWuisyaEQdh8katY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z2a7xpdrdx"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/ElExtrañoCaso.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NXytZdgUEVKth8yQ5881KS8Bh0gkWuisyaEQdh8katY="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/ElHobbit.hifpvisiy4.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElHobbit.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "873893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yWGEK2kQ5PBoeEo45tT5uhWXI+1RwghtTFyVl8hs/is=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hifpvisiy4"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/ElHobbit.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yWGEK2kQ5PBoeEo45tT5uhWXI+1RwghtTFyVl8hs/is="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/ElHobbit.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElHobbit.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "873893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yWGEK2kQ5PBoeEo45tT5uhWXI+1RwghtTFyVl8hs/is=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yWGEK2kQ5PBoeEo45tT5uhWXI+1RwghtTFyVl8hs/is="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/ElPrincipito.hwpylknql0.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElPrincipito.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1Mm4Ywbu/zXLNNQh7U5opmIIFAavPN6MHJwkcDlGHM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hwpylknql0"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/ElPrincipito.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1Mm4Ywbu/zXLNNQh7U5opmIIFAavPN6MHJwkcDlGHM="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/ElPrincipito.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElPrincipito.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1Mm4Ywbu/zXLNNQh7U5opmIIFAavPN6MHJwkcDlGHM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1Mm4Ywbu/zXLNNQh7U5opmIIFAavPN6MHJwkcDlGHM="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/Fundacion.805xp2gc9s.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Fundacion.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aGd9kbn1Z2XoeT+0DCDH58QyG0E/yNTjQBotkirVxOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "805xp2gc9s"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/Fundacion.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aGd9kbn1Z2XoeT+0DCDH58QyG0E/yNTjQBotkirVxOU="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/Fundacion.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Fundacion.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aGd9kbn1Z2XoeT+0DCDH58QyG0E/yNTjQBotkirVxOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aGd9kbn1Z2XoeT+0DCDH58QyG0E/yNTjQBotkirVxOU="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/harry-potter-y-la-orden-del-fenix.d4mxtbanu2.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w2iXuR6yLCGpBY+DZ1wQTYbUiqgnobEH5WVPfC6QSYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4mxtbanu2"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w2iXuR6yLCGpBY+DZ1wQTYbUiqgnobEH5WVPfC6QSYw="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w2iXuR6yLCGpBY+DZ1wQTYbUiqgnobEH5WVPfC6QSYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w2iXuR6yLCGpBY+DZ1wQTYbUiqgnobEH5WVPfC6QSYw="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/S20Xfn/N8JYv0llp91Ud8hdGajBUxJltlgQukbJ40Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/S20Xfn/N8JYv0llp91Ud8hdGajBUxJltlgQukbJ40Q="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotteryElCalizDeFuego.t023ttra92.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/S20Xfn/N8JYv0llp91Ud8hdGajBUxJltlgQukbJ40Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t023ttra92"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/S20Xfn/N8JYv0llp91Ud8hdGajBUxJltlgQukbJ40Q="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81dKt/3vDFGmf408b1t6XEMmefYEpDOEGD3Vp2Fwzs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-81dKt/3vDFGmf408b1t6XEMmefYEpDOEGD3Vp2Fwzs8="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.pp35eappko.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81dKt/3vDFGmf408b1t6XEMmefYEpDOEGD3Vp2Fwzs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pp35eappko"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-81dKt/3vDFGmf408b1t6XEMmefYEpDOEGD3Vp2Fwzs8="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CmRY6GbGtLY0ieiYtUFLR3B3JSkqvBeNRN40UtB8Kak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CmRY6GbGtLY0ieiYtUFLR3B3JSkqvBeNRN40UtB8Kak="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.mh1mvd27y4.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CmRY6GbGtLY0ieiYtUFLR3B3JSkqvBeNRN40UtB8Kak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh1mvd27y4"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CmRY6GbGtLY0ieiYtUFLR3B3JSkqvBeNRN40UtB8Kak="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotteryLaCamaraSecreta.30gktchrss.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A0sijeNJzZxblLHyBVw9g2h9G9BcflGDDgL78P+tLNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "30gktchrss"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A0sijeNJzZxblLHyBVw9g2h9G9BcflGDDgL78P+tLNM="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A0sijeNJzZxblLHyBVw9g2h9G9BcflGDDgL78P+tLNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A0sijeNJzZxblLHyBVw9g2h9G9BcflGDDgL78P+tLNM="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotteryLaPiedraFilosofal.hifykbm2ss.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/xNXujtXTnbRxLaFNUkmJADUiJnkM0K+WVP3A4+ZXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hifykbm2ss"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/xNXujtXTnbRxLaFNUkmJADUiJnkM0K+WVP3A4+ZXE="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/xNXujtXTnbRxLaFNUkmJADUiJnkM0K+WVP3A4+ZXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/xNXujtXTnbRxLaFNUkmJADUiJnkM0K+WVP3A4+ZXE="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.5f0kzw3ezb.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXLH81oylVYcPLPFjPrrvQdC2ko6pfLHWXJu6ENf2S8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5f0kzw3ezb"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXLH81oylVYcPLPFjPrrvQdC2ko6pfLHWXJu6ENf2S8="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXLH81oylVYcPLPFjPrrvQdC2ko6pfLHWXJu6ENf2S8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXLH81oylVYcPLPFjPrrvQdC2ko6pfLHWXJu6ENf2S8="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/LaIslaDelTesoro.h3rx1ca4wm.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bfiIwf+z8pMUEBwzR2d4G6XEsxfhLc8Ro4mDvdSY+0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h3rx1ca4wm"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/LaIslaDelTesoro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bfiIwf+z8pMUEBwzR2d4G6XEsxfhLc8Ro4mDvdSY+0E="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/LaIslaDelTesoro.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bfiIwf+z8pMUEBwzR2d4G6XEsxfhLc8Ro4mDvdSY+0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bfiIwf+z8pMUEBwzR2d4G6XEsxfhLc8Ro4mDvdSY+0E="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/Portugueses.9e3zc57tzc.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Portugueses.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1574636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8WtLaQpDcxJU0yRbH0RP6WOOKvJGIXrgcSXmlX3ymc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9e3zc57tzc"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivos/Portadas/Portugueses.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8WtLaQpDcxJU0yRbH0RP6WOOKvJGIXrgcSXmlX3ymc4="
+        }
+      ]
+    },
+    {
+      "Route": "Archivos/Portadas/Portugueses.jpg",
+      "AssetFile": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Portugueses.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1574636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8WtLaQpDcxJU0yRbH0RP6WOOKvJGIXrgcSXmlX3ymc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Oct 2025 20:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8WtLaQpDcxJU0yRbH0RP6WOOKvJGIXrgcSXmlX3ymc4="
+        }
+      ]
     }
   ]
 }
