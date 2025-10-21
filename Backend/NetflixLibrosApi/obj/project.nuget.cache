@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mLPV+J8uLEg=",
+  "dgSpecHash": "I6Z7MaXGFT2gdXj84gIIuZWENa8g5U54JDXt/bxtvODofl7t7QwX5+t8Djxb/i4455KalRqZnnLq0ImesptrmA==",
   "success": true,
-  "projectFilePath": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
+  "projectFilePath": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
   "expectedPackageFiles": [
     "/home/et12alumno/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/home/et12alumno/.nuget/packages/google.apis/1.72.0/google.apis.1.72.0.nupkg.sha512",
@@ -126,10 +126,7 @@
     "/home/et12alumno/.nuget/packages/system.text.encodings.web/9.0.9/system.text.encodings.web.9.0.9.nupkg.sha512",
     "/home/et12alumno/.nuget/packages/system.text.json/9.0.9/system.text.json.9.0.9.nupkg.sha512",
     "/home/et12alumno/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
-    "/home/et12alumno/.nuget/packages/system.threading.tasks.extensions/4.6.0/system.threading.tasks.extensions.4.6.0.nupkg.sha512",
-    "/home/et12alumno/.nuget/packages/microsoft.netcore.app.ref/8.0.19/microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
-    "/home/et12alumno/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.19/microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
-    "/home/et12alumno/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.19/microsoft.netcore.app.host.linux-x64.8.0.19.nupkg.sha512"
+    "/home/et12alumno/.nuget/packages/system.threading.tasks.extensions/4.6.0/system.threading.tasks.extensions.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }

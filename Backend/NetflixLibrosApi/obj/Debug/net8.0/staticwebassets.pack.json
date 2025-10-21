@@ -1,152 +1,148 @@
 {
   "Files": [
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/1984.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/1984.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/1984.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/CienAñosDeSoledad.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DiarioLoco.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DiarioLoco.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/DiarioLoco.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElHobbit.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElHobbit.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/ElHobbit.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElPrincipito.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElPrincipito.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/ElPrincipito.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Fundación.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Fundación.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/Fundación.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/LaIslaDelTesoro.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/1984.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/1984.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/1984.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/20mil.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/20mil.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/20mil.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/CienAñosDeSoledad.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/CienAñosDeSoledad.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/CienAñosDeSoledad.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/DiarioDeUnLoco.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/DiarioDeUnLoco.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/DiarioDeUnLoco.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElExtrañoCaso.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElExtrañoCaso.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/ElExtrañoCaso.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElHobbit.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElHobbit.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/ElHobbit.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElPrincipito.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElPrincipito.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/ElPrincipito.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Fundacion.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Fundacion.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/Fundacion.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/LaIslaDelTesoro.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Portugueses.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Portugueses.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/Portugueses.jpg"
     },
     {
-      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg",
+      "Id": "/home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg"
-    },
-    {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NetflixLibrosApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NetflixLibrosApi.Microsoft.AspNetCore.StaticWebAssets.props",
