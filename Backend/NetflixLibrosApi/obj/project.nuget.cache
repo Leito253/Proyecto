@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c7AlPUXvtALza0yPjMeqIh4IGJIcSeO4EkfWv5H3Kzqewilqto49tZa9T0ulFM+ap+ZBjthwZav0aCVj9LdtSQ==",
+  "dgSpecHash": "N8tc8hR9uFbsqv/VfN7Zqg3pIXu9gpxChuwqEjqciH9sUwBz3iCNvXn5IAh6mL//9Ecg5yAkdFbeQ9/l6oZ9dw==",
   "success": true,
-  "projectFilePath": "/home/et12alumno/Imágenes/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
+  "projectFilePath": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
   "expectedPackageFiles": [
     "/home/et12alumno/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/home/et12alumno/.nuget/packages/google.apis/1.72.0/google.apis.1.72.0.nupkg.sha512",

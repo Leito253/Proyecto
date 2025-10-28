@@ -160,10 +160,6 @@
 /home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
 /home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Management.dll
 /home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
-/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/bin/Debug/net8.0/NetflixLibrosApi.staticwebassets.endpoints.json
-/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/obj/Debug/net8.0/staticwebassets.build.endpoints.json
-/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/obj/Debug/net8.0/staticwebassets/msbuild.NetflixLibrosApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/obj/Debug/net8.0/NetflixL.06826921.Up2Date
 /home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/bin/Debug/net8.0/appsettings.Development.json
 /home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/bin/Debug/net8.0/appsettings.json
 /home/et12alumno/Documentos/Proyecto/Backend/NetflixLibrosApi/bin/Debug/net8.0/NetflixLibrosApi.staticwebassets.runtime.json
@@ -490,3 +486,4 @@
 /home/et12alumno/Imágenes/Proyecto/Backend/NetflixLibrosApi/obj/Debug/net8.0/NetflixLibrosApi.pdb
 /home/et12alumno/Imágenes/Proyecto/Backend/NetflixLibrosApi/obj/Debug/net8.0/NetflixLibrosApi.genruntimeconfig.cache
 /home/et12alumno/Imágenes/Proyecto/Backend/NetflixLibrosApi/obj/Debug/net8.0/ref/NetflixLibrosApi.dll
+/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/obj/Debug/net8.0/NetflixLibrosApi.csproj.CopyComplete

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetflixLibrosApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34bc8f92a782e3c0ce9661545bf65de29abb1582")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43569551b7543ecef62ab873665c2378d0cefc27")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetflixLibrosApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetflixLibrosApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
