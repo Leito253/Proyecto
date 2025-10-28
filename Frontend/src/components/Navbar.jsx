@@ -37,7 +37,7 @@ export default function Navbar() {
   return (
     <>
       <nav className="navbar">
-        <h1>Nexora</h1>
+        <h1>Libribook</h1>
 
         <div className="navbar-right">
           <div className="search-container" ref={searchRef}>
