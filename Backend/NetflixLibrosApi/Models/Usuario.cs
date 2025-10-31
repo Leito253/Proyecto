@@ -1,10 +1,14 @@
-namespace NetflixLibrosApi.Modelos
+namespace Libribook.Modelos.Entidades
 {
     public class Usuario
     {
         public int Id { get; set; }
-        public required string Nombre { get; set; }
-        public required string Email { get; set; }
-        public required string Contraseña { get; set; }
+        public string Nombre { get; set; } = string.Empty;
+        public string Apellido { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public string PasswordHash { get; set; } = string.Empty;
+        public string Rol { get; set; } = "Usuario";
+        public bool Activo { get; set; } = true;
+        public DateTime FechaRegistro { get; set; } = DateTime.Now;
     }
 }

@@ -1,102 +1,79 @@
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using NetflixLibrosApi.Data;
-using NetflixLibrosApi.Modelos;
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
-using System.Text;
-using Microsoft.IdentityModel.Tokens;
-using Google.Apis.Auth;
+using Libribook.DTOs;
+using Libribook.Services;
 
-
-namespace NetflixLibrosAPI.Controllers;
-
-[ApiController]
-[Route("api/[controller]")]
-public class UsuariosController : ControllerBase
+namespace NetflixLibrosAPI.Controllers
 {
-    private readonly NetflixLibrosContext _context;
-    private readonly IConfiguration _configuration;
-
-    public UsuariosController(NetflixLibrosContext context, IConfiguration configuration)
+    [ApiController]
+    [Route("api/[controller]")]
+    public class UsuariosController : ControllerBase
     {
-        _context = context;
-        _configuration = configuration;
-    }
+        private readonly UsuarioService _usuarioService;
 
-    [HttpPost("register")]
-    public async Task<IActionResult> Register([FromBody] Usuario usuario)
-    {
-        if (await _context.Usuarios.AnyAsync(u => u.Email == usuario.Email))
-            return BadRequest("El email ya está registrado.");
-
-        usuario.Contraseña = BCrypt.Net.BCrypt.HashPassword(usuario.Contraseña);
-
-        _context.Usuarios.Add(usuario);
-        await _context.SaveChangesAsync();
-        return Ok(usuario);
-    }
-
-    [HttpPost("login")]
-    public async Task<IActionResult> Login([FromBody] Usuario loginData)
-    {
-        var usuario = await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == loginData.Email);
-        if (usuario == null || !BCrypt.Net.BCrypt.Verify(loginData.Contraseña, usuario.Contraseña))
-            return Unauthorized("Credenciales inválidas.");
-
-        var token = GenerateJwtToken(usuario);
-        return Ok(new { usuario = usuario.Email, token });
-    }
-
-    [HttpPost("google-login")]
-    public async Task<IActionResult> GoogleLogin([FromBody] string token)
-    {
-        try
+        public UsuariosController(UsuarioService usuarioService)
         {
-            var payload = await GoogleJsonWebSignature.ValidateAsync(token);
+            _usuarioService = usuarioService;
+        }
 
-            var usuario = await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == payload.Email);
-
-            if (usuario == null)
+        [HttpPost("register")]
+        public IActionResult Registrar([FromBody] UsuarioCreateDTO dto)
+        {
+            try
             {
-                usuario = new Usuario
-                {
-                    Email = payload.Email,
-                    Nombre = payload.Name,
-                    Contraseña = "",
-                };
-                _context.Usuarios.Add(usuario);
-                await _context.SaveChangesAsync();
+                var usuarioDTO = _usuarioService.CrearUsuario(dto);
+                var token = _usuarioService.GenerarJwtToken(usuarioDTO.Email);
+                return Ok(new { usuario = usuarioDTO, token });
             }
-
-            var jwt = GenerateJwtToken(usuario);
-            return Ok(new { usuario = usuario.Email, token = jwt });
+            catch (Exception ex)
+            {
+                return BadRequest(new { mensaje = ex.Message });
+            }
         }
-        catch
+
+        [HttpPost("login")]
+        public IActionResult Login([FromBody] LoginDTO dto)
         {
-            return BadRequest("Token de Google inválido.");
+            try
+            {
+                var usuarioDTO = _usuarioService.Login(dto.Email, dto.Password);
+                if (usuarioDTO == null)
+                    return Unauthorized(new { mensaje = "Email o contraseña incorrectos" });
+
+                var token = _usuarioService.GenerarJwtToken(usuarioDTO.Email);
+                return Ok(new { usuario = usuarioDTO, token });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { mensaje = ex.Message });
+            }
         }
-    }
 
-    private string GenerateJwtToken(Usuario usuario)
-    {
-        var claims = new[]
+        [HttpPost("google-login")]
+        public async Task<IActionResult> GoogleLogin([FromBody] string token)
         {
-            new Claim(JwtRegisteredClaimNames.Sub, usuario.Email),
-            new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
-        };
+            try
+            {
+                var payload = await Google.Apis.Auth.GoogleJsonWebSignature.ValidateAsync(token);
 
-        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
-        var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+                var usuarioDTO = _usuarioService.Login(payload.Email, "");
+                if (usuarioDTO == null)
+                {
+                    var createDTO = new UsuarioCreateDTO
+                    {
+                        Nombre = payload.Name,
+                        Email = payload.Email,
+                        Password = ""
+                    };
+                    usuarioDTO = _usuarioService.CrearUsuario(createDTO);
+                }
 
-        var token = new JwtSecurityToken(
-            _configuration["Jwt:Issuer"],
-            _configuration["Jwt:Audience"],
-            claims,
-            expires: DateTime.Now.AddDays(7),
-            signingCredentials: creds
-        );
-
-        return new JwtSecurityTokenHandler().WriteToken(token);
+                var jwt = _usuarioService.GenerarJwtToken(usuarioDTO.Email);
+                return Ok(new { usuario = usuarioDTO, token = jwt });
+            }
+            catch
+            {
+                return BadRequest("Token de Google inválido.");
+            }
+        }
     }
 }

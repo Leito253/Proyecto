@@ -1,6 +1,6 @@
--- INSERTS CATEGORIAS --
 USE NetflixLibrosBD;
 
+-- INSERTS CATEGORIAS --
 INSERT INTO Categorias (Nombre) VALUES
 ('Infantil'),     
 ('Aventura'),      

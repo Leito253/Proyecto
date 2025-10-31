@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using NetflixLibrosApi.Modelos;
+using Libribook.Modelos.Entidades;
 
 namespace NetflixLibrosApi.Data
 {
@@ -16,7 +17,6 @@ namespace NetflixLibrosApi.Data
 
             protected override void OnModelCreating(ModelBuilder modelBuilder)
             {
-                  // Configuración de la tabla Libros
                   modelBuilder.Entity<Libro>(entity =>
                   {
                         entity.ToTable("Libros");
@@ -44,14 +44,12 @@ namespace NetflixLibrosApi.Data
                         entity.Property(e => e.UrlPdf)
                               .HasMaxLength(500);
 
-                        // Relación con Categorias
                         entity.HasOne(e => e.Categoria)
                               .WithMany(c => c.Libros)
                               .HasForeignKey(e => e.CategoriaId)
                               .OnDelete(DeleteBehavior.SetNull);
                   });
 
-                  // Configuración de la tabla Categorias
                   modelBuilder.Entity<Categoria>(entity =>
                   {
                         entity.ToTable("Categorias");

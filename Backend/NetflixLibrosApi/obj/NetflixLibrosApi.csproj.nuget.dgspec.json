@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj": {}
+    "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj": {}
   },
   "projects": {
-    "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj": {
+    "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
+        "projectUniqueName": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
         "projectName": "NetflixLibrosApi",
-        "projectPath": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
+        "projectPath": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
         "packagesPath": "/home/et12alumno/.nuget/packages/",
-        "outputPath": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/obj/",
+        "outputPath": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/et12alumno/.nuget/NuGet/NuGet.Config"
@@ -63,6 +63,10 @@
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[8.14.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.5.0, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
