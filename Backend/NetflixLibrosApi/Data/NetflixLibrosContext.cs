@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using NetflixLibrosApi.Modelos;
 using Libribook.Modelos.Entidades;
 
 namespace NetflixLibrosApi.Data

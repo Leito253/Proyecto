@@ -1,6 +1,5 @@
-using Libribook.DTOs;
 using Libribook.Modelos.Entidades;
-
+using Libribook.DTOs;
 
 namespace Libribook.Mappers
 {
@@ -10,11 +9,11 @@ namespace Libribook.Mappers
         {
             return new Reseña
             {
-                IdUsuario = dto.IdUsuario,
-                IdLibro = dto.IdLibro,
+                UsuarioId = dto.UsuarioId,
+                LibroId = dto.LibroId,
                 Comentario = dto.Comentario,
-                Puntuacion = dto.Puntuacion,
-                Fecha = DateTime.Now
+                Calificacion = dto.Calificacion,
+                FechaReseña = DateTime.Now
             };
         }
 
@@ -23,11 +22,11 @@ namespace Libribook.Mappers
             return new ReseñaDTO
             {
                 Id = model.Id,
-                IdUsuario = model.IdUsuario,
-                IdLibro = model.IdLibro,
+                UsuarioId = model.UsuarioId,
+                LibroId = model.LibroId,
                 Comentario = model.Comentario,
-                Puntuacion = model.Puntuacion,
-                Fecha = model.Fecha
+                Calificacion = model.Calificacion,
+                FechaReseña = model.FechaReseña
             };
         }
     }

@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace NetflixLibrosApi.Modelos;
+namespace Libribook.Modelos.Entidades;
 
 public class Libro
 {

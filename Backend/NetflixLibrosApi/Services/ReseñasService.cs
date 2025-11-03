@@ -27,24 +27,30 @@ namespace Libribook.Services
                 SELECT LAST_INSERT_ID();
             ", conn);
 
-            cmd.Parameters.AddWithValue("@UsuarioId", reseña.IdUsuario);
-            cmd.Parameters.AddWithValue("@LibroId", reseña.IdLibro);
+            cmd.Parameters.AddWithValue("@UsuarioId", reseña.UsuarioId);
+            cmd.Parameters.AddWithValue("@LibroId", reseña.LibroId);
             cmd.Parameters.AddWithValue("@Comentario", reseña.Comentario);
-            cmd.Parameters.AddWithValue("@Calificacion", reseña.Puntuacion);
-            cmd.Parameters.AddWithValue("@FechaReseña", reseña.Fecha);
+            cmd.Parameters.AddWithValue("@Calificacion", reseña.Calificacion);
+            cmd.Parameters.AddWithValue("@FechaReseña", reseña.FechaReseña);
 
             reseña.Id = Convert.ToInt32(cmd.ExecuteScalar());
+
             return ReseñaMapper.ToDTO(reseña);
         }
 
-        public List<ReseñaDTO> ObtenerPorLibro(int idLibro)
+        public List<ReseñaDTO> ObtenerPorLibro(int libroId)
         {
             var lista = new List<ReseñaDTO>();
+
             using var conn = new MySqlConnection(_connectionString);
             conn.Open();
 
-            var cmd = new MySqlCommand("SELECT * FROM Reseñas WHERE LibroId = @LibroId ORDER BY FechaReseña DESC", conn);
-            cmd.Parameters.AddWithValue("@LibroId", idLibro);
+            var cmd = new MySqlCommand(
+                "SELECT * FROM Reseñas WHERE LibroId = @LibroId ORDER BY FechaReseña DESC",
+                conn
+            );
+
+            cmd.Parameters.AddWithValue("@LibroId", libroId);
 
             using var reader = cmd.ExecuteReader();
             while (reader.Read())
@@ -52,11 +58,11 @@ namespace Libribook.Services
                 var reseña = new Reseña
                 {
                     Id = reader.GetInt32("Id"),
-                    IdUsuario = reader.GetInt32("UsuarioId"),
-                    IdLibro = reader.GetInt32("LibroId"),
+                    UsuarioId = reader.GetInt32("UsuarioId"),
+                    LibroId = reader.GetInt32("LibroId"),
                     Comentario = reader.GetString("Comentario"),
-                    Puntuacion = reader.GetInt32("Calificacion"),
-                    Fecha = reader.GetDateTime("FechaReseña")
+                    Calificacion = reader.GetInt32("Calificacion"),
+                    FechaReseña = reader.GetDateTime("FechaReseña")
                 };
 
                 lista.Add(ReseñaMapper.ToDTO(reseña));
@@ -70,21 +76,27 @@ namespace Libribook.Services
             using var conn = new MySqlConnection(_connectionString);
             conn.Open();
 
-            var checkCmd = new MySqlCommand("SELECT UsuarioId FROM Reseñas WHERE Id=@Id", conn);
+            var checkCmd = new MySqlCommand(
+                "SELECT UsuarioId FROM Reseñas WHERE Id=@Id",
+                conn
+            );
+
             checkCmd.Parameters.AddWithValue("@Id", dto.Id);
 
             var result = checkCmd.ExecuteScalar();
+
             if (result == null || Convert.ToInt32(result) != userId)
                 throw new Exception("No puedes editar esta reseña.");
 
             var cmd = new MySqlCommand(@"
                 UPDATE Reseñas 
                 SET Comentario=@Comentario, Calificacion=@Calificacion
-                WHERE Id=@Id", conn);
+                WHERE Id=@Id
+            ", conn);
 
             cmd.Parameters.AddWithValue("@Id", dto.Id);
             cmd.Parameters.AddWithValue("@Comentario", dto.Comentario);
-            cmd.Parameters.AddWithValue("@Calificacion", dto.Puntuacion);
+            cmd.Parameters.AddWithValue("@Calificacion", dto.Calificacion);
 
             return cmd.ExecuteNonQuery() > 0;
         }

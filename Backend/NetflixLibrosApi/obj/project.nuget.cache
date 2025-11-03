@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XPJqIF2462tmkVSmjhFM4PhMyTqTBIiJCFVt/rSk8ILumkZGkz3QdAErnk1ovM6k7mD8ZDpEDmTUiekqn31qrw==",
+  "dgSpecHash": "Z9348DhpJGmYR+FJbGpHAem8it5EC2bYBjEh8ADFJIvWpnHydsdzUvWz/LL08ynQ+VhNkgDxXA0VHZD0zGe+0A==",
   "success": true,
-  "projectFilePath": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
+  "projectFilePath": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
   "expectedPackageFiles": [
     "/home/et12alumno/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/home/et12alumno/.nuget/packages/bouncycastle.cryptography/2.6.2/bouncycastle.cryptography.2.6.2.nupkg.sha512",

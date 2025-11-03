@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MFvcsSlyBC6ZIDdA69lU+pvTj2VfRWBMrw3lZr7iQbg=",
+  "Hash": "YyVq/5rA2mbskliyE+h61FPy6jBDmSHyu0YJFZFo4/Y=",
   "Source": "NetflixLibrosApi",
   "BasePath": "_content/NetflixLibrosApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "NetflixLibrosApi/wwwroot",
       "Source": "NetflixLibrosApi",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/1984.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/1984.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/1984.pdf",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/1984.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/biologia_jovenes.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/biologia_jovenes.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/biologia_jovenes.pdf",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/biologia_jovenes.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/breve_historia_tiempo.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/breve_historia_tiempo.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/breve_historia_tiempo.pdf",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/breve_historia_tiempo.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/cerebro_autista.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/cerebro_autista.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/cerebro_autista.pdf",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/cerebro_autista.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/CienAñosDeSoledad.pdf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/CienAñosDeSoledad.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DiarioLoco.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DiarioLoco.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/DiarioLoco.pdf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/DiarioLoco.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/dracula.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/dracula.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/dracula.pdf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/dracula.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElHobbit.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElHobbit.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/ElHobbit.pdf",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/ElHobbit.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElPrincipito.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElPrincipito.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/ElPrincipito.pdf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/ElPrincipito.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/eragon.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/eragon.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/eragon.pdf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/eragon.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/frankenstein.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/frankenstein.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/frankenstein.pdf",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/frankenstein.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Fundación.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Fundación.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/Fundación.pdf",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/Fundación.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryElCalizDeFuego.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryElMisterioDelPrincipe.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryElPrisioneroDeAzkaban.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryLaCamaraSecreta.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryLaOrdenDelFenix.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/HarryPotteryLasReliquiasDeLaMuerte.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/historia_interminable.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/historia_interminable.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/historia_interminable.pdf",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/historia_interminable.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/it.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/it.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/it.pdf",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/it.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/LaIslaDelTesoro.pdf",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/matematica_vida.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/matematica_vida.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/matematica_vida.pdf",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/matematica_vida.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/moby_dick.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/moby_dick.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/moby_dick.pdf",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/moby_dick.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/nombre_rosa.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/nombre_rosa.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/nombre_rosa.pdf",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/nombre_rosa.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/orient_express.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/orient_express.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/orient_express.pdf",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/orient_express.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/resplandor.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/resplandor.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/resplandor.pdf",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/resplandor.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/senor_anillos1.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/senor_anillos1.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/senor_anillos1.pdf",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/senor_anillos1.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/tres_mosqueteros.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/tres_mosqueteros.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/tres_mosqueteros.pdf",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/tres_mosqueteros.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/viaje_centro_tierra.pdf",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/viaje_centro_tierra.pdf",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/PDFS/viaje_centro_tierra.pdf",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/PDFS/viaje_centro_tierra.pdf"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/1984.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/1984.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/1984.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/1984.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/20mil.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/20mil.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/20mil.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/20mil.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/biologia_jovenes.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/biologia_jovenes.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/biologia_jovenes.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/biologia_jovenes.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/breve_historia_tiempo.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/breve_historia_tiempo.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/breve_historia_tiempo.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/breve_historia_tiempo.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/cerebro_autista.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/cerebro_autista.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/cerebro_autista.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/cerebro_autista.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/chica_tren.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/chica_tren.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/chica_tren.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/chica_tren.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/CienAñosDeSoledad.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/CienAñosDeSoledad.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/CienAñosDeSoledad.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/CienAñosDeSoledad.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/DiarioDeUnLoco.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/DiarioDeUnLoco.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/DiarioDeUnLoco.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/DiarioDeUnLoco.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/dracula.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/dracula.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/dracula.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/dracula.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElExtrañoCaso.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElExtrañoCaso.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/ElExtrañoCaso.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/ElExtrañoCaso.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElHobbit.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElHobbit.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/ElHobbit.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/ElHobbit.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElPrincipito.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElPrincipito.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/ElPrincipito.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/ElPrincipito.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/eragon.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/eragon.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/eragon.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/eragon.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/frankenstein.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/frankenstein.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/frankenstein.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/frankenstein.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Fundacion.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Fundacion.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/Fundacion.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/Fundacion.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/harry-potter-y-la-orden-del-fenix.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotteryElCalizDeFuego.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotteryElMisterioDelPrincipe.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotterYelPrisioneroDeAzkaban.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotteryLaCamaraSecreta.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotteryLaPiedraFilosofal.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/historia_interminable.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/historia_interminable.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/historia_interminable.jpg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/historia_interminable.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/it.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/it.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/it.jpg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/it.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/LaIslaDelTesoro.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/matematica_vida.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/matematica_vida.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/matematica_vida.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/matematica_vida.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/moby_dick.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/moby_dick.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/moby_dick.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/moby_dick.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/nombre_rosa.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/nombre_rosa.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/nombre_rosa.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/nombre_rosa.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/orient_express.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/orient_express.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/orient_express.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/orient_express.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Portugueses.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Portugueses.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/Portugueses.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/Portugueses.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/resplandor.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/resplandor.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/resplandor.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/resplandor.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/senor_anillos1.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/senor_anillos1.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/senor_anillos1.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/senor_anillos1.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/tres_mosqueteros.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/tres_mosqueteros.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/tres_mosqueteros.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/Archivos/Portadas/tres_mosqueteros.jpg"
     },
     {
-      "Identity": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/viaje_centro_tierra.jpg",
+      "Identity": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/viaje_centro_tierra.jpg",
       "SourceId": "NetflixLibrosApi",
       "SourceType": "Discovered",
-      "ContentRoot": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
+      "ContentRoot": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/",
       "BasePath": "_content/NetflixLibrosApi",
       "RelativePath": "Archivos/Portadas/viaje_centro_tierra.jpg",
       "AssetKind": "All",

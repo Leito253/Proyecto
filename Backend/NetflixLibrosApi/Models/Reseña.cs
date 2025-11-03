@@ -7,6 +7,6 @@ namespace Libribook.Modelos.Entidades
         public int LibroId { get; set; }
         public string Comentario { get; set; } = string.Empty;
         public int Calificacion { get; set; }
-        public DateTime FechaResena { get; set; } = DateTime.Now;
+        public DateTime FechaReseña { get; set; } = DateTime.Now;
     }
 }

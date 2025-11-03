@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NetflixLibrosApi.Data;
-using NetflixLibrosApi.Modelos;
+using Libribook.Modelos.Entidades;
 
-namespace NetflixLibrosAPI.Controladores;
+namespace Libribook.Controladores;
 
 [ApiController]
 [Route("api/[controller]")]

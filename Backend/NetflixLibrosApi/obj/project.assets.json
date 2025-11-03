@@ -6675,11 +6675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
+      "projectUniqueName": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
       "projectName": "NetflixLibrosApi",
-      "projectPath": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
+      "projectPath": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/NetflixLibrosApi.csproj",
       "packagesPath": "/home/et12alumno/.nuget/packages/",
-      "outputPath": "/mnt/Datos/Repos/Proyecto/Backend/NetflixLibrosApi/obj/",
+      "outputPath": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/et12alumno/.nuget/NuGet/NuGet.Config"
