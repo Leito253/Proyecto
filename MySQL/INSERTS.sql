@@ -56,8 +56,8 @@ INSERT INTO Libros (Titulo, Autor, UrlPortada, UrlPdf, Descripcion, CategoriaId)
 INSERT INTO Libros (Titulo, Autor, UrlPortada, UrlPdf, Descripcion, CategoriaId) VALUES
 ('El Señor de los Anillos: La Comunidad del Anillo', 'J.R.R. Tolkien', '/Archivos/Portadas/senor_anillos1.jpg', '/Archivos/PDFS/senor_anillos1.pdf', 'Frodo inicia su viaje para destruir el Anillo Único.', 3),
 ('Eragon', 'Christopher Paolini', '/Archivos/Portadas/eragon.jpg', '/Archivos/PDFS/eragon.pdf', 'Un joven granjero descubre un huevo de dragón que cambiará su destino.', 3),
-('La Historia Interminable', 'Michael Ende', '/Archivos/Portadas/historia_interminable.jpg', '/Archivos/PDFS/   .pdf', 'Un niño se adentra en un libro mágico que narra un mundo en peligro.', 3);
-
+('La Historia Interminable', 'Michael Ende', '/Archivos/Portadas/historia_interminable.jpg', '/Archivos/PDFS/   .pdf', 'Un niño se adentra en un libro mágico que narra un mundo en peligro.', 3),
+('Livinia', 'Ursula K. Le Guin', '/Archivos/Portadas/Lavinia.jpeg', '/Archivos/PDFS/Lavinia.pdf', 'Lavinia desafía su destino y cuenta su propia historia en la antigua Italia', 4);
 -- Aventura
 INSERT INTO Libros (Titulo, Autor, UrlPortada, UrlPdf, Descripcion, CategoriaId) VALUES
 ('Los Tres Mosqueteros', 'Alexandre Dumas', '/Archivos/Portadas/tres_mosqueteros.jpg', '/Archivos/PDFS/tres_mosqueteros.pdf', 'D’Artagnan se une a los mosqueteros del rey en una vida de aventuras.', 5),
@@ -69,3 +69,22 @@ SELECT * FROM Libros;
 UPDATE Libros
 SET UrlPortada = '/Archivos/Portadas/HPcamaraSecreta.jpg'
 WHERE id = 11
+
+SELECT Titulo, COUNT(*)
+FROM Libros
+GROUP BY Titulo
+HAVING COUNT(*) > 1;
+
+DELETE FROM Libros
+WHERE id NOT IN (
+    SELECT * FROM (
+        SELECT MIN(id)
+        FROM Libros
+        GROUP BY Titulo
+    ) AS subquery
+);
+
+SELECT Titulo, COUNT(*)
+FROM Libros
+GROUP BY Titulo
+HAVING COUNT(*) > 1;

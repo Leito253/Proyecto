@@ -1,12 +1,28 @@
 {
   "Files": [
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/.pdf"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/1984.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/1984.pdf"
     },
     {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/20MilLeguasDeViajeSubmarino.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AcercaDelAlma.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/AcercaDelAlma.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AlasDeHierro.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/AlasDeHierro.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AlasDeSangre.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/AlasDeSangre.pdf"
     },
     {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/AliciaEnElPaísDeLasMaravillas.pdf",
@@ -17,8 +33,20 @@
       "PackagePath": "staticwebassets/Archivos/PDFS/CienAñosDeSoledad.pdf"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/CuentosInclusos.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/CuentosInclusos.pdf"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DiarioLoco.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/DiarioLoco.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/DragonesDeLaEternidad.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/DragonesDeLaEternidad.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElCaballeroMuerte.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/ElCaballeroMuerte.pdf"
     },
     {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElExtrañoCasodelDrJekyllyMrHyde.pdf",
@@ -29,8 +57,32 @@
       "PackagePath": "staticwebassets/Archivos/PDFS/ElHobbit.pdf"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElLibroDeLosCuentosPerdidos1.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/ElLibroDeLosCuentosPerdidos1.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElLibroDeLosCuentosPerdidos2.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/ElLibroDeLosCuentosPerdidos2.pdf"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElPrincipito.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/ElPrincipito.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElRetornoDeLosDragones.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/ElRetornoDeLosDragones.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElRumorDeLosHuesos.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/ElRumorDeLosHuesos.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElTemploDeIstar.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/ElTemploDeIstar.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/ElUmbralDelPoder.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/ElUmbralDelPoder.pdf"
     },
     {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Fundación.pdf",
@@ -65,12 +117,32 @@
       "PackagePath": "staticwebassets/Archivos/PDFS/HarryPotterylaPiedraFilosofal.pdf"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/HijaDelDestino.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/HijaDelDestino.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/LaGuerraDeLosEnanos.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/LaGuerraDeLosEnanos.pdf"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/LaIslaDelTesoro.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/LaIslaDelTesoro.pdf"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Lavinia.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/Lavinia.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Shanghái_Inmortal.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/Shanghái_Inmortal.pdf"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf",
       "PackagePath": "staticwebassets/Archivos/PDFS/TresPortuguesesBajoUnParaguas.pdf"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/Zangetsuki.pdf",
+      "PackagePath": "staticwebassets/Archivos/PDFS/Zangetsuki.pdf"
     },
     {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/PDFS/biologia_jovenes.pdf",
@@ -145,6 +217,18 @@
       "PackagePath": "staticwebassets/Archivos/Portadas/20mil.jpg"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AcercaDelAlma.jpeg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/AcercaDelAlma.jpeg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AlasDeHierro.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/AlasDeHierro.webp"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AlasDeSangre1.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/AlasDeSangre1.webp"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/AliciaEnElPaisDeLasMaravillas.jpg"
     },
@@ -153,8 +237,20 @@
       "PackagePath": "staticwebassets/Archivos/Portadas/CienAñosDeSoledad.jpg"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/CuentosInclusosDeNumeradorYLaTierraMedia.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/CuentosInclusosDeNumeradorYLaTierraMedia.webp"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/DiarioDeUnLoco.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/DiarioDeUnLoco.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/DragonesDeLaEdentidad.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/DragonesDeLaEdentidad.webp"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElCaballeroMuerte.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/ElCaballeroMuerte.webp"
     },
     {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElExtrañoCaso.jpg",
@@ -165,8 +261,32 @@
       "PackagePath": "staticwebassets/Archivos/Portadas/ElHobbit.jpg"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElHumorDeLosHuesos.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/ElHumorDeLosHuesos.webp"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElLIbroDeLosCuentosPerdidos2.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/ElLIbroDeLosCuentosPerdidos2.webp"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElLibroDeLosCuentosPerdidos1.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/ElLibroDeLosCuentosPerdidos1.webp"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElPrincipito.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/ElPrincipito.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElRetornoDeLosDragones.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/ElRetornoDeLosDragones.webp"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElTemploDeIstar.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/ElTemploDeIstar.webp"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/ElUmbralDelPoder.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/ElUmbralDelPoder.webp"
     },
     {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Fundacion.jpg",
@@ -197,12 +317,32 @@
       "PackagePath": "staticwebassets/Archivos/Portadas/HarryPotteryLasReliquiasDeLaMuerte.jpg"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/HijaDelDestino.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/HijaDelDestino.webp"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/LaGuerraDeLosEnanos.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/LaGuerraDeLosEnanos.webp"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/LaIslaDelTesoro.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/LaIslaDelTesoro.jpg"
     },
     {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Lavinia.jpeg",
+      "PackagePath": "staticwebassets/Archivos/Portadas/Lavinia.jpeg"
+    },
+    {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Portugueses.jpg",
       "PackagePath": "staticwebassets/Archivos/Portadas/Portugueses.jpg"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Shanghái_Inmortal.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/Shanghái_Inmortal.webp"
+    },
+    {
+      "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/Zangetsuki.webp",
+      "PackagePath": "staticwebassets/Archivos/Portadas/Zangetsuki.webp"
     },
     {
       "Id": "/home/et12alumno/Escritorio/Proyecto/Backend/NetflixLibrosApi/wwwroot/Archivos/Portadas/biologia_jovenes.jpg",
