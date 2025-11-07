@@ -57,7 +57,7 @@ INSERT INTO Libros (Titulo, Autor, UrlPortada, UrlPdf, Descripcion, CategoriaId)
 ('El Señor de los Anillos: La Comunidad del Anillo', 'J.R.R. Tolkien', '/Archivos/Portadas/senor_anillos1.jpg', '/Archivos/PDFS/senor_anillos1.pdf', 'Frodo inicia su viaje para destruir el Anillo Único.', 3),
 ('Eragon', 'Christopher Paolini', '/Archivos/Portadas/eragon.jpg', '/Archivos/PDFS/eragon.pdf', 'Un joven granjero descubre un huevo de dragón que cambiará su destino.', 3),
 ('La Historia Interminable', 'Michael Ende', '/Archivos/Portadas/historia_interminable.jpg', '/Archivos/PDFS/   .pdf', 'Un niño se adentra en un libro mágico que narra un mundo en peligro.', 3),
-('Lavinia', 'Ursula K. Le Guin', '/Archivos/Portadas/Lavinia.jpeg', '/Archivos/PDFS/Lavinia.pdf', 'Lavinia desafía su destino y cuenta su propia historia en la antigua Italia', 4);
+('Lavinia', 'Ursula K. Le Guin', '/Archivos/Portadas/Lavinia.jpg', '/Archivos/PDFS/Lavinia.pdf', 'Lavinia desafía su destino y cuenta su propia historia en la antigua Italia', 4);
 -- Aventura
 INSERT INTO Libros (Titulo, Autor, UrlPortada, UrlPdf, Descripcion, CategoriaId) VALUES
 ('Los Tres Mosqueteros', 'Alexandre Dumas', '/Archivos/Portadas/tres_mosqueteros.jpg', '/Archivos/PDFS/tres_mosqueteros.pdf', 'D’Artagnan se une a los mosqueteros del rey en una vida de aventuras.', 5),
@@ -65,6 +65,17 @@ INSERT INTO Libros (Titulo, Autor, UrlPortada, UrlPdf, Descripcion, CategoriaId)
 ('Viaje al Centro de la Tierra', 'Julio Verne', '/Archivos/Portadas/viaje_centro_tierra.jpg', '/Archivos/PDFS/viaje_centro_tierra.pdf', 'Una expedición desciende a las profundidades del planeta en busca de un mundo perdido.', 5);
 
 SELECT * FROM Libros;
+
+INSERT INTO Libros (Titulo, Autor, UrlPortada, UrlPdf, Descripcion, CategoriaId) VALUES
+('Alas De Hierro', 'Rebecca Yarros', '/Archivos/Portadas/AlasDeHierro.jpg', '/Archivos/PDFS/AlasDeHierro.pdf', 'Una historia de amor y aventura en un mundo lleno de magia y peligro.', 4),
+('Alas De Sangre', 'Rebecca Yarros', '/Archivos/Portadas/AlasDeSangre1.jpg', '/Archivos/PDFS/AlasDeSangre.pdf', 'La continuación de la épica saga de amor y valentía en un reino en guerra.', 4),
+('Cuentos Inconclusos','J. R. R. Tolkien','/Archivos/Portadas/CuentosInconclusos.jpg','/Archivos/PDFS/CuentosInclusos.pdf','Relatos y fragmentos que amplían el mundo de El Silmarillion, El Hobbit y El Señor de los Anillos, mostrando historias, personajes y leyendas que quedaron incompletas',4),
+('Dragones de la Eternidad', 'Margaret Weis Y Tracy Hickman','/Archivos/Portadas/Dragones.jpg','/Archivos/PDFS/DragonesDeLaEternidad.pdf','Historia de amor, magia y poder donde los dragones y la eternidad se entrelazan en una gran aventura.',4),
+('El Caballero Muerte','Cassandra Clare','/Archivos/Portadas/ElCaballeroMuerte.jpg','/Archivos/PDFS/ElCaballeroMuerte.pdf','En un mundo donde la oscuridad amenaza con consumirlo todo, un caballero solitario se alza para enfrentar su destino y proteger a los inocentes.',4);
+
+
+INSERT INTO Libros (Titulo, Autor, UrlPortada, UrlPdf, Descripcion, CategoriaId) VALUES
+('Kybalión',' Walker Atkinson','/Archivos/Portadas/Kybalion.jpg','/Archivos/PDFS/Kybalion.pdf','libro de filosofía hermética que resume las enseñanzas de Hermes Trismegisto y expone los siete principios universales.',4);
 
 UPDATE Libros
 SET UrlPortada = '/Archivos/Portadas/HPcamaraSecreta.jpg'
